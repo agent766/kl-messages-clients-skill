@@ -1,0 +1,38 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Credentials — JAMAIS DE CLÉ DANS LE REPO
+*.env
+.env
+credentials.json
+secrets.json
+*.key
+*.pem
+api-keys.txt
+ezus-token.txt
+
+# Temp files
+*.tmp
+*.log
+*.cache
+
+# Local exports
+exports/
+downloads/
+
+# Lock files
+*.lock
+
+# Local notes (à éditer si besoin de versionner)
+notes-perso.md
+brouillons/
