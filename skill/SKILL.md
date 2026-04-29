@@ -1,3 +1,4 @@
+# Rédaction de messages clients — Agence voyage Écosse
 name: messages-clients
 description: Rédige les messages clients pour les voyages en Écosse vendus par l'agence (Kilt & Licorne, Evaneos, Destination-Écosse). Utiliser dès qu'on prépare une réponse à un prospect ou un client : premier contact, accompagnement de devis Ezus, relance silencieuse, objection prix, comparaison concurrente, confirmation d'acompte, mises à jour hébergement, pré-départ, livraison du carnet de voyage, opérationnel arrivée, clôture de dossier, suivi post-voyage. Déclencher aussi quand l'utilisateur mentionne un nom d'agent (Nicolas, Marie, Alison, Angélina, Johanna, Emily, Carole, Anastassia), une plateforme (kiltetlicorne.fr, evaneos.fr, destination-ecosse.fr), un type de voyage (FIT, GIR, autotour, séjour guidé, open tour), une étape du processus de vente, ou parle de rédiger pour un client en Écosse. Garantit le bon ton selon l'agent et la plateforme.
 
