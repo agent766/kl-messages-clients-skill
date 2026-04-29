@@ -1,0 +1,217 @@
+ezus_ref,ezus_title,ezus_status,agent,departure,return,duration_nights,pax_total,trip_type,currency,total_amount_local,total_amount_eur,per_day_per_pers_eur,per_pers_per_week_eur
+039d30d0-dede-4433-ab4a-0e3bdb616c62,AT - John Doe,Payé,Nicolas Caisso,2026-04-05,2026-04-17,12,5,AT,€,0,0,,
+c5309dc6-372d-49d5-8d4b-8764818bb952,AT - Guylaine POULIGO,Résa à finaliser (Acompte Versé),Marie Limas,2026-10-08,2026-10-15,7,2,AT,€,3000,3000,214,1498
+ff0cf3fb-cb2b-4954-9b9b-d011ec52bb87,AT - Nathalie FAYTRE,Payé,Marie Limas,2026-05-15,2026-05-23,8,2,AT,€,4000,4000,250,1750
+ce7a5711-bf37-4d2d-90df-96cca69c9efa,AT - Luisa Cardoso,Résa à finaliser (Acompte Versé),Angélina Etre,2026-07-20,2026-07-29,9,3,AT,€,0,0,,
+c7e6b8ea-d6e9-4638-9bd3-9ccb8df78ad8,AT - Jorielle VIRICEL,Résa à finaliser (Acompte Versé),Marie Limas,2026-07-16,2026-07-27,11,5,AT,€,0,0,,
+fc6197ae-1c3e-453f-892b-4d0c3e655190,AT - Martine Landuyt,Résa à finaliser (Acompte Versé),Angélina Etre,2026-06-28,2026-07-07,9,2,AT,€,8000,8000,444,3108
+d1cc5a35-bdb6-4741-a450-bba1a4cee2f3,AT - Aurélie RABEUX,Résa à finaliser (Acompte Versé),Emily Parnell,2027-04-19,2027-04-30,11,2,AT,£,3500,4130,188,1316
+86030d97-b7f1-460a-a9ff-1522bd167c32,AT - Anne Bouazza,Payé,Angélina Etre,2026-04-26,2026-05-05,9,2,AT,€,0,0,,
+0a73d788-a38d-4cb3-9a64-de674cc0d1b0,AT - Olivier PERREAU,Résa à finaliser (Acompte Versé),Marie Limas,2026-08-17,2026-08-24,7,2,AT,£,3200,3776,270,1890
+8413cba0-b95f-484c-98b4-72380baf2746,AT - Jessica Fedrigo,Résa à finaliser (Acompte Versé),Angélina Etre,2026-08-04,2026-08-16,12,4,AT,£,8000,9440,197,1379
+82dd9dbc-e7be-4132-af1a-dd3eba29f721,AT - Catherine Gsll,Résa à finaliser (Acompte Versé),Angélina Etre,2026-05-21,2026-05-29,8,2,AT,£,4500,5310,332,2324
+ad2137a6-4427-4923-906e-c8754b43afdf,AT - Géraldine Feret,Résa à finaliser (Acompte Versé),Alison Spence,2026-06-29,2026-07-15,16,2,AT,£,0,0,,
+0e419cf2-888b-4c95-b37a-31f12cb5104c,AT - Odile DUBREUIL,Résa à finaliser (Acompte Versé),Marie Limas,2026-06-13,2026-06-21,8,2,AT,£,0,0,,
+7cc79001-6d9e-43bc-b0c9-b6409fe6fd41,AT - ALICE BALBIANI,Résa OK vérifiées(Solde à payer)RdBk,Marie Limas,2026-05-23,2026-05-26,3,2,AT,€,0,0,,
+3c842985-4373-420e-ac59-44fd84e5c1d3,AT - Camille LYSÉE,Résa à finaliser (Acompte Versé),Marie Limas,2026-06-14,2026-06-21,7,2,AT,£,3600,4248,303,2121
+86767c0a-a1d5-4b8b-a6b6-d66db40a2c2c,AT - Céline Costermans,Résa à finaliser (Acompte Versé),Alison Spence,2026-08-07,2026-08-21,14,4,AT,£,0,0,,
+ed24dd16-56e6-4f75-b143-76228e945a12,AT - Cécile Tétoin,Carnet de voyage créé,Johanna Squiban,2026-07-06,2026-07-16,10,4,AT,£,0,0,,
+6ef23033-d286-46eb-9e7e-ed8b7602c1bc,GT - Caroline Auger,Résa à finaliser (Acompte Versé),Marie Limas,2026-09-14,2026-09-22,8,8,GT,£,0,0,,
+04c2ae44-c7e8-461e-bcd3-c7e37d84e2fd,AT - Nicole Blondeau,Résa à finaliser (Acompte Versé),Alison Spence,2026-07-02,2026-07-13,11,6,AT,£,0,0,,
+a4bc77fe-957f-46f2-86a4-b4a2e308152e,AT - AURELIE DROUET,Résa à finaliser (Acompte Versé),Angélina Etre,2026-08-06,2026-08-16,10,4,AT,£,0,0,,
+ac4d697a-8479-45cc-863f-3ead5b99605e,AT - Toufik Amatousse,Payé,Johanna Squiban,2026-04-26,2026-05-07,11,2,AT,£,0,0,,
+1a79030c-b41e-4ada-8e78-5c6912145e85,AT - Catherine Salesse,Résa à finaliser (Acompte Versé),Alison Spence,2026-07-17,2026-07-24,7,4,AT,€,0,0,,
+3a6c6028-f2fd-4827-b85d-dbee4d208ebd,AT - Jean Noël Perrin,Résa à finaliser (Acompte Versé),Emily Parnell,2026-05-22,2026-05-30,8,4,AT,£,0,0,,
+4f5d4068-d00a-41e0-b3ad-6dc7f0509513,AT - Stephane Gerin,Payé,Carole Beaumont,2026-05-10,2026-05-17,7,2,AT,€,0,0,,
+d77cd1fe-ff71-4f8d-8da0-a5fae369fddb,AT - Virginie Dernoncourt,Résa à finaliser (Acompte Versé),Angélina Etre,2026-10-19,2026-10-30,11,2,AT,€,0,0,,
+afd33edd-72ba-4132-aeb4-3f919aeb1b08,AT - Elisabeth Bertaud,Résa à finaliser (Acompte Versé),Johanna Squiban,2026-09-01,2026-09-15,14,2,AT,€,0,0,,
+e0c3b3f1-b24a-479c-9000-a28187185832,AT - Bernard Kalis,Résa à finaliser (Acompte Versé),Angélina Etre,2026-06-15,2026-06-25,10,2,AT,€,4000,4000,200,1400
+ce96fedd-2bd0-4075-ac45-c3f5f6982f70,AT - Audrey MAREK,Payé,Emily Parnell,2026-04-11,2026-04-18,7,6,AT,€,10000,10000,238,1666
+7adc3e2e-362a-49b4-815f-80b46d5498ae,AT - Sophie Renaud,Résa à finaliser (Acompte Versé),Carole Beaumont,2026-07-14,2026-07-24,10,2,AT,£,0,0,,
+333888eb-2d3d-4752-a8c0-fd990c94433c,AT - Mailys Claisse,Résa OK vérifiées(Solde à payer)RdBk,Angélina Etre,2026-07-27,2026-08-03,7,1,AT,€,3000,3000,429,3003
+f60de930-2431-4dce-88bb-e38df4d8f296,AT - Bérengère LE TOUMELIN,Carnet de voyage créé,Marie Limas,2026-05-02,2026-05-09,7,2,AT,£,6000,7080,506,3542
+66ba0171-2401-4fcd-b102-d99bad65a3c8,AT - Cedric CADET,Résa à finaliser (Acompte Versé),Emily Parnell,2026-07-11,2026-07-19,8,3,AT,£,6000,7080,295,2065
+b303f06f-3f2b-403b-8017-5a04948b6eb0,AT - Thomas Favier,Payé,Angélina Etre,2026-04-13,2026-04-24,11,4,AT,€,0,0,,
+1a6b08f7-8a90-46a2-b7c6-52344a67105a,AT - Sylvie HERMAND,Résa à finaliser (Acompte Versé),Emily Parnell,2026-08-03,2026-08-14,11,4,AT,£,0,0,,
+59c3cb39-8c9f-4afe-ac23-941f3e6db3a0,AT - Françoise Noble,Résa à finaliser (Acompte Versé),Alison Spence,2026-08-20,2026-09-02,13,2,AT,€,0,0,,
+4410db6a-a097-4f25-8d7e-c0147013c00b,AT - Gilles Bernasconi (£),Payé,Marie Limas,2025-07-26,2025-08-03,8,2,AT,£,0,0,,
+8ec0bfd4-640f-4906-978e-0031e2ca90e2,AT - Isabelle BAZINET KLEIN,Carnet de voyage créé,Marie Limas,2026-05-09,2026-05-16,7,2,AT,£,4000,4720,337,2359
+bc2df917-7291-4a3f-8436-7cf8ad9f0834,GT - Nathalie Legeron,Carnet de voyage créé,Alison Spence,2026-05-14,2026-05-21,7,2,GT,€,0,0,,
+97e0fe54-4417-42ec-8fa7-321a4b0b3d98,AT - Lison Pinheiro,Résa OK vérifiées(Solde à payer)RdBk,Angélina Etre,2026-06-06,2026-06-14,8,2,AT,€,0,0,,
+1a877c44-5484-462a-b65a-fa47c4666eff,AT - Stéphanie Rosa,Payé,Nicolas Caisso,2026-02-28,2026-03-08,8,4,AT,€,0,0,,
+af98da65-7030-4bc6-9be4-cac2e27dda11,AT - Valerie Jacquet,Résa à finaliser (Acompte Versé),Angélina Etre,2026-09-08,2026-09-19,11,2,AT,€,0,0,,
+73979b13-14bd-4383-bcdd-9a1adfa0c697,AT - Moeyaert Stéphane,Résa à finaliser (Acompte Versé),Alison Spence,2026-09-02,2026-09-12,10,2,AT,€,0,0,,
+df8e3134-5a6f-4989-b89b-199aedb78c56,AT - Marie-George Lapalus,Résa à finaliser (Acompte Versé),Marie Limas,2026-07-15,2026-08-03,19,3,AT,£,15000,17700,311,2177
+8bff0514-bced-4d95-8d0d-b5642ca39823,GT - Alexandre Lamarle,Résa à finaliser (Acompte Versé),Nicolas Caisso,2026-07-21,2026-07-27,6,4,GT,€,0,0,,
+ec3a7cff-e66d-4997-adc8-fdb511709878,AT - Marie Brochard,Payé,Nicolas Caisso,2026-04-09,2026-04-16,7,2,AT,£,0,0,,
+dd1b478d-793f-4d2a-8084-38dbe77ccbf8,AT - Olivier - Asselin,Résa à finaliser (Acompte Versé),Alison Spence,2026-08-22,2026-08-29,7,13,AT,€,0,0,,
+a07b78a2-b953-4f3a-a6dc-61b55c847ac6,AT - Viviane Messiaux,Carnet de voyage créé,Carole Beaumont,2026-08-10,2026-08-17,7,4,AT,€,0,0,,
+11fd671f-97a1-4445-8d03-620fa999eb56,AT - Anne-Laure BENTZ,Résa à finaliser (Acompte Versé),Emily Parnell,2026-08-05,2026-08-16,11,6,AT,£,11000,12980,197,1379
+fb79f23f-5ea5-4d05-a630-03a07f32f878,AT - Julien-Pierre Avérous,Résa à finaliser (Acompte Versé),Emily Parnell,2026-09-14,2026-09-25,11,1,AT,€,4000,4000,364,2548
+3104e97c-391c-4a01-8853-4a27a5115a7f,AT - Pierre FREGEAU,Payé,Marie Limas,2026-05-09,2026-05-28,19,2,AT,£,8000,9440,248,1736
+00fa9c02-30da-4806-b92f-f90dc1a430f9,GT - Sandra Bourgault,Résa à finaliser (Acompte Versé),Angélina Etre,2026-09-07,2026-09-11,4,2,GT,€,0,0,,
+41358d4f-37f2-4ddb-a17e-c08b276759f8,AT - Famille Berthoud,Résa OK vérifiées(Solde à payer)RdBk,Johanna Squiban,2026-08-03,2026-08-14,11,4,AT,€,0,0,,
+9c1902c5-1b79-4bb6-bf38-7e8ae851aeda,AT - Guillaume SIMON,Payé,Alison Spence,2026-04-19,2026-05-02,13,4,AT,€,0,0,,
+a4d8f865-e6b9-4e4c-a7c6-53aa38f20a31,AT - Pierre Andre,Résa OK vérifiées(Solde à payer)RdBk,Angélina Etre,2026-08-01,2026-08-13,12,4,AT,€,9000,9000,188,1316
+0c16a81d-147b-4708-b3a0-9ae34223e283,AT - Nicolas POIRIER,Archivé,Emily Parnell,2026-07-06,2026-07-24,18,4,AT,£,0,0,,
+d0fe5a8a-e205-4324-882d-001a7ba7614a,GT - Anne-Claude Martin,Résa à finaliser (Acompte Versé),Nicolas Caisso,2026-06-29,2026-07-10,11,2,GT,£,0,0,,
+b2ee29ca-1e5b-4688-8376-68d044caa50c,AT - Amandine LARDEUR,Payé,Marie Limas,2026-04-12,2026-04-20,8,2,AT,£,4000,4720,295,2065
+67442bc0-08f7-45c9-8e8e-d9d630c86433,AT - Dominique FOULDRIN,Résa OK vérifiées(Solde à payer)RdBk,Marie Limas,2026-09-12,2026-09-22,10,2,AT,£,6000,7080,354,2478
+3ed5da8e-f65d-4693-b9eb-018a4ef0c593,AT - Bénédicte LORENZINI,Payé,Marie Limas,2026-04-12,2026-04-26,14,2,AT,£,8000,9440,337,2359
+63325c55-0dea-408f-9460-f6b84cf0e73a,AT - Céline SOMERLINCK,Payé,Marie Limas,2026-03-15,2026-03-21,6,2,AT,£,4000,4720,393,2751
+5aefdbb2-006b-49fe-a0c6-81df273c84ca,AT - Maria Vittoria Colonna,Payé,Nicolas Caisso,2026-02-21,2026-03-01,8,3,AT,€,0,0,,
+1d2408b3-ba51-4b14-9dd1-9c7c490451e5,AT - Isabelle Meunier,Résa à finaliser (Acompte Versé),Angélina Etre,2026-09-22,2026-10-13,21,2,AT,€,0,0,,
+f2c528f5-52ad-44c3-a2d7-fe706570fccf,AT - Isabelle Magnet,Payé,Johanna Squiban,2026-05-06,2026-05-17,11,4,AT,€,0,0,,
+facf7d71-65ae-4460-98df-0988b75c0eae,AT - Catherine ROBEZ-MASSON,Carnet de voyage créé,Marie Limas,2026-05-25,2026-06-08,14,2,AT,£,6800,8024,287,2009
+6b1902d1-1c0f-4d32-9a7f-9b814ceaacbf,AT - Roger Gay,Résa à finaliser (Acompte Versé),Alison Spence,2026-06-11,2026-06-22,11,4,AT,€,0,0,,
+4ea31151-84c3-4fc6-b237-844bb6968afa,AT - Daniel Jouan,Résa OK vérifiées(Solde à payer)RdBk,Angélina Etre,2026-07-13,2026-07-21,8,6,AT,£,10000,11800,246,1722
+150b0516-8586-4c99-b16e-24da00b7f9d7,AT - Agathe Ridel,Carnet de voyage créé,Alison Spence,2026-05-31,2026-06-11,11,3,AT,€,0,0,,
+c008dd55-620e-4de9-b90f-5505d8f157cd,AT - Benjamin Pohl,Payé,Nicolas Caisso,2026-04-05,2026-04-16,11,4,AT,€,0,0,,
+00d88c3f-4172-4011-b8e9-8e04c11c44b6,AT - Laurent COTTIER,Résa à finaliser (Acompte Versé),Emily Parnell,2026-06-27,2026-07-11,14,4,AT,£,0,0,,
+8ffad349-4a8b-4999-aebe-6e28e0b508a3,AT - Frédéric Boschetti,Carnet de voyage créé,Alison Spence,2026-05-02,2026-05-10,8,4,AT,€,0,0,,
+0d543163-6ad6-410c-8c09-5488c1221d01,AT - Virginie PERRIER-CORNET,Résa à finaliser (Acompte Versé),Marie Limas,2026-07-01,2026-07-11,10,7,AT,£,16000,18880,270,1890
+ebb6baea-3b6d-434d-b314-1a7195d060e1,AT - Vincent Drouet,Résa OK vérifiées(Solde à payer)RdBk,Angélina Etre,2026-07-04,2026-07-12,8,3,AT,£,0,0,,
+d5017f08-e0c9-4743-a705-af489dad0b4e,AT - JP Perrigaud,Résa OK vérifiées(Solde à payer)RdBk,Angélina Etre,2026-06-27,2026-07-04,7,2,AT,£,0,0,,
+901287fb-2be2-48d3-b560-2fca7620a708,GT - Danielle Luc,Résa à finaliser (Acompte Versé),Angélina Etre,2026-06-22,2026-06-28,6,2,GT,€,0,0,,
+89df90f2-a29c-4cec-b3be-d5109c436039,AT - Sophie Delebarre,Résa à finaliser (Acompte Versé),Alison Spence,2026-10-17,2026-10-25,8,2,AT,£,0,0,,
+33d9a5db-6de4-42b6-b3dc-8ca22006497a,AT - Le Moine,Résa à finaliser (Acompte Versé),Johanna Squiban,2026-10-18,2026-10-24,6,4,AT,€,3000,3000,125,875
+d129a618-e19c-4b29-b223-b48609fd4e31,AT - Judith Boulanger,Payé,Angélina Etre,2026-02-28,2026-03-07,7,7,AT,€,0,0,,
+d0fb9dca-342d-4ed0-b716-40010d131e5f,AT - Hubert KAUFFMANN,Payé,Marie Limas,2026-01-12,2026-01-26,14,2,AT,£,0,0,,
+e77625d1-17c1-4e37-b081-84dfb76744cc,AT - Ghyslain CASTELLI,Payé,Marie Limas,2026-04-20,2026-04-27,7,2,AT,£,0,0,,
+681a23b6-f49c-42f7-b936-8d4ed307a3b7,AT - Xavier LATOUR,Résa OK vérifiées(Solde à payer)RdBk,Emily Parnell,2026-05-23,2026-06-03,11,2,AT,£,0,0,,
+902ae8c5-0c3e-4400-8e16-37798ee87930,AT - Weekend 6 Nations,Payé,Nicolas Caisso,2026-03-05,2026-03-09,4,2,AT,€,0,0,,
+ac6e8c86-e531-4536-8174-6555f2b37902,AT - Saby,Payé,Johanna Squiban,2026-03-07,2026-03-14,7,2,AT,£,0,0,,
+76c5295b-11e3-444f-b746-b9c29a0ce1cc,AT - Patrice FOUILLADIEU,Payé,Nicolas Caisso,2026-04-21,2026-04-30,9,5,AT,£,0,0,,
+4f6e9ce1-c4f8-4c46-9f3a-f6b955ef6d00,AT - Marina BELLOC LAROYE,Résa OK vérifiées(Solde à payer)RdBk,Emily Parnell,2026-06-27,2026-07-07,10,3,AT,£,5000,5900,197,1379
+b96db24c-4b01-4560-8359-64eac2a03e8f,AT - Maurine MINGAT,Archivé,Emily Parnell,2026-05-23,2026-06-03,11,2,AT,£,0,0,,
+02f1ff6d-cfe3-40a0-8e16-63383b20b171,AT - Salome BERTHEAU,Archivé,Emily Parnell,2026-06-01,2026-06-15,14,2,AT,£,5000,5900,211,1477
+367f633b-65b6-4192-afc2-7756a9a1344e,AT - 9D - Gérard Veny (£),Archivé,Marie Limas,2025-05-02,2025-05-10,8,3,AT,£,0,0,,
+12542aa2-730f-449f-891f-33417c8b839a,AT - Anne Millet,Résa à finaliser (Acompte Versé),Nicolas Caisso,2026-08-05,2026-08-20,15,4,AT,€,0,0,,
+11643b63-ce09-4278-a2ed-1ca50840bb39,AT - Nathalie PAINCHAUD,Payé,Emily Parnell,2026-04-24,2026-05-03,9,2,AT,£,6000,7080,393,2751
+8401700e-94d7-4de7-939d-ae906b41940b,AT - Veronique SERIN 8D Skye,Résa à finaliser (Acompte Versé),Emily Parnell,2026-07-27,2026-08-07,11,4,AT,£,0,0,,
+9a113cf5-e87c-4fc7-a076-6dbe571eb05b,AT - Christine Lopez,Résa à finaliser (Acompte Versé),Angélina Etre,2026-09-08,2026-09-19,11,2,AT,€,0,0,,
+8490cd00-2f39-483e-aa78-ebf3facd59db,AT - Laurent Alcaraz,Payé,Angélina Etre,2026-04-11,2026-04-19,8,4,AT,£,0,0,,
+de88c000-224c-4755-afdb-d7dbf061f25b,AT - Renate Morisod,Résa à finaliser (Acompte Versé),Johanna Squiban,2026-09-11,2026-10-05,24,2,AT,€,0,0,,
+5f3ac709-6877-473e-a0b6-d7ee773bc72b,AT - Jean-Pierre Schoch,Résa OK vérifiées(Solde à payer)RdBk,Angélina Etre,2026-06-03,2026-06-14,11,2,AT,€,0,0,,
+feda787a-a76b-436c-96be-397e48093ecb,AT - Brice Morgenthaler,Résa à finaliser (Acompte Versé),Marie Limas,2026-09-22,2026-09-30,8,2,AT,£,3500,4130,258,1806
+bf0eda43-6ec6-492e-b9d4-0c67947d9d81,GT - Lucie Lanteigne,Résa à finaliser (Acompte Versé),Anastassia Doubovskaya,2026-08-02,2026-08-11,9,7,GT,£,0,0,,
+2797da9a-4cef-4da3-a06b-377dd33d9569,AT - Dominique Maurin,Résa OK vérifiées(Solde à payer)RdBk,Angélina Etre,2026-05-27,2026-06-13,17,4,AT,€,0,0,,
+d0e30ba7-6c83-464f-b2eb-f942289e2485,GT - Françoise Castillo,Résa OK vérifiées(Solde à payer)RdBk,Nicolas Caisso,2026-07-11,2026-07-18,7,5,GT,€,0,0,,
+4a63a7f8-c165-4ce3-af7d-50cb80fc84d0,AT - Sylvie MARION,Payé,Marie Limas,2026-04-02,2026-04-09,7,2,AT,£,0,0,,
+b8b59582-84a8-4dce-b436-b5683912bd8a,AT - Thomas Claisse,Payé,Emily Parnell,2026-04-19,2026-04-26,7,2,AT,€,2400,2400,171,1197
+d82aea07-94a8-4463-b173-464bae9b3480,AT - Marion SCHAUFFLER,Carnet de voyage créé,Marie Limas,2026-05-05,2026-05-12,7,2,AT,£,4000,4720,337,2359
+4aea2ddc-f53a-482b-a69d-7774f3005dc8,AT - Didier REIGNER,Résa OK vérifiées(Solde à payer)RdBk,Marie Limas,2026-06-01,2026-06-12,11,4,AT,£,10000,11800,268,1876
+dd559937-948f-4f81-82b1-0462a2ccafbe,AT - Marc DESVAUX,Carnet de voyage créé,Marie Limas,2026-06-01,2026-06-12,11,4,AT,£,8000,9440,215,1505
+6affc831-9669-4259-b8a5-2583223c1b1d,AT - Ludovic LEROUX,Résa OK vérifiées(Solde à payer)RdBk,Carole Beaumont,2026-07-28,2026-08-05,8,5,AT,£,8212,9690,242,1694
+6bb66f89-a95f-4112-ba1e-17d3c5b2bb85,AT - Amandine Gabarre,Résa OK vérifiées(Solde à payer)RdBk,Angélina Etre,2026-07-04,2026-07-11,7,4,AT,€,0,0,,
+ce53c64b-5b29-4aeb-baf3-14d18189f133,AT - Colmbine Peyrieres,Résa à finaliser (Acompte Versé),Angélina Etre,2026-07-23,2026-07-31,8,4,AT,£,0,0,,
+a629dbce-1fc3-43cf-b59c-32ace9352a83,GT - Loriane Aubry,Résa à finaliser (Acompte Versé),Nicolas Caisso,2026-08-13,2026-08-24,11,8,GT,€,0,0,,
+3cecc4d9-a9f0-49c0-9835-79e935228a18,GT - Rendu 06-04 NC500 (GT - Rendu),Résa à finaliser (Acompte Versé),Nicolas Caisso,2026-06-03,2026-06-10,7,6,GT,€,0,0,,
+ea753026-49ff-4f7a-8de7-dd23a938cf14,AT - Sylvie Guaglianone,Résa à finaliser (Acompte Versé), ,2026-10-07,2026-10-14,7,6,AT,€,9000,9000,214,1498
+16efb2ae-79ec-4dd5-bd7b-e72ecc9efae7,AT - Sven Roger THODENIUS,Payé,Marie Limas,2026-06-01,2026-06-16,15,4,AT,£,12000,14160,236,1652
+a19af248-36f7-40db-baab-69de7d218f71,AT - David SAUGIER,Payé,Marie Limas,2025-10-25,2025-11-01,7,7,AT,£,0,0,,
+5d78bb7f-277a-4e95-a2d0-159759161e12,AT - Amandine Barré,Payé,Carole Beaumont,2026-04-12,2026-04-18,6,5,AT,£,0,0,,
+cc10256a-07f5-4400-92fe-1df0bb710d8c,AT - Ionel Stanica,Payé,Nicolas Caisso,2025-10-20,2025-10-28,8,3,AT,£,0,0,,
+e6cdc244-65e2-4011-ab5b-1933a758cb63,AT - Julie Ferré,Résa OK vérifiées(Solde à payer)RdBk,Carole Beaumont,2026-05-23,2026-05-30,7,2,AT,£,0,0,,
+d74d407a-c87c-4dbc-a47c-8ba138d58d17,AT - Laetitia PRALLONG,Payé,Marie Limas,2026-04-04,2026-04-16,12,5,AT,£,0,0,,
+d615e826-7430-42b4-be23-8a5d426d9de5,AT - Esther Lescot,Résa à finaliser (Acompte Versé),Carole Beaumont,2026-09-07,2026-09-15,8,3,AT,£,5712,6740,281,1967
+3e7d6619-a569-4d28-9dc0-57cf51f3abcd,AT - Félicien VOUILLAMOZ,Résa à finaliser (Acompte Versé),Marie Limas,2026-08-03,2026-08-11,8,4,AT,£,7000,8260,258,1806
+318158a3-54d1-43e7-b195-5e17b5f8aea1,AT - Jean-Michel Papillon,Résa à finaliser (Acompte Versé),Marie Limas,2026-09-15,2026-09-27,12,2,AT,£,4600,5428,226,1582
+ec3f0521-8983-4bb1-bdf9-514c729c6261,AT - Ludovic Michaux,Résa OK vérifiées(Solde à payer)RdBk,Angélina Etre,2026-07-28,2026-08-13,16,4,AT,€,0,0,,
+27f20681-93ec-4c8b-96dd-bf5be19e3936,AT - Sandrine Conseiller,Résa à finaliser (Acompte Versé),Angélina Etre,2025-12-26,2025-12-31,5,5,AT,£,0,0,,
+29d36bb0-b9f0-439b-8826-aee73176fdf6,AT - Maria FABIANI,Payé,Marie Limas,2025-10-20,2025-10-29,9,8,AT,£,0,0,,
+f376c89f-4282-4eec-9c4d-aff19cae0a13,AT - Georges Vezon,Payé,Marie Limas,2025-08-28,2025-09-06,9,4,AT,£,6500,7670,213,1491
+b77c3e95-496f-4340-94f9-b4402eabbc8f,AT - Jane NIEUWENHOF,Payé,Marie Limas,2025-09-22,2025-09-30,8,2,AT,£,4000,4720,295,2065
+6db5cc76-2b63-417b-929c-4d79674a9c2a,AT - Vincent BUISSON,Payé,Marie Limas,2025-09-08,2025-09-18,10,2,AT,£,5000,5900,295,2065
+cc7d1da1-1a9f-46d5-81bf-27e8d2b748e3,AT - Jacques Lemasson,Payé,Marie Limas,2025-09-15,2025-09-27,12,2,AT,£,0,0,,
+2349d8f0-f68b-469c-9a35-293e526c2709,AT - Sylviane DUQUESNE,Payé,Marie Limas,2025-09-23,2025-10-07,14,2,AT,£,6000,7080,253,1771
+c4c437dd-5608-4924-814d-b1f3483d42c2,AT - Guylene TARRAZI,Payé,Angélina Etre,2025-07-23,2025-07-27,4,2,AT,€,0,0,,
+54243ef4-6dbc-4b43-bedd-77d8213c2be0,AT - Floriane Ponchet,Payé,Angélina Etre,2025-08-13,2025-08-22,9,2,AT,€,0,0,,
+fc42b29a-5d8b-4f13-a024-17e35267f3c6,AT - Pauline Letellier,Payé,Angélina Etre,2025-08-15,2025-08-22,7,4,AT,€,0,0,,
+0aa5f619-cd6b-4dac-b80b-d880583846f9,AT - Nathalie Pingard,Payé,Marie Limas,2025-07-07,2025-07-17,10,3,AT,£,6000,7080,236,1652
+af872f83-928a-4560-8c55-ce2e0be2b4ae,AT - Duguay,Archivé,Nicolas Caisso,2025-08-09,2025-08-19,10,6,AT,£,0,0,,
+60e092eb-400c-4683-aa62-97af04731770,AT - Jérémy Suarez,Payé,Nicolas Caisso,2025-06-16,2025-06-23,7,3,AT,£,3500,4130,197,1379
+703a8681-5866-4e64-877f-d5c021b2f8fa,AT - Thierry FINET,Payé,Marie Limas,2025-10-22,2025-10-31,9,4,AT,£,6000,7080,197,1379
+2132885a-d22f-488c-a28d-e8c303e37f7c,AT- Virginie Neaud Glencoe Cairngorms,Payé,Carole Beaumont,2025-07-04,2025-07-11,7,6,AT,£,0,0,,
+cd81adb3-6321-4b6f-a899-a35d2b3e2163,AT - Laurence Tiffagom-Dijon,Payé,Marie Limas,2025-06-23,2025-06-30,7,2,AT,£,4000,4720,337,2359
+f7a1073c-ae2c-4994-a676-e47c9130497a,AT - Christine CHEVALIER,Payé,Marie Limas,2025-07-20,2025-08-01,12,3,AT,£,10000,11800,328,2296
+3d1acf60-e753-4602-9194-f1f5ba162c7f,AT - Christiane DAHAIS,Payé,Marie Limas,2025-09-06,2025-09-15,9,3,AT,£,0,0,,
+cd2a662e-9368-4dab-b688-70178340b70d,AT - Bertrand Rodriguez,Payé,Nicolas Caisso,2025-07-21,2025-07-31,10,2,AT,£,0,0,,
+6e94ec5c-359e-4901-b89c-0705b0ae161e,AT - Noémie AMAND-HUS,Payé,Marie Limas,2025-08-04,2025-08-11,7,3,AT,£,0,0,,
+aba853ee-8640-488d-a8a4-fca8be7df382,AT - Le Routard - Doumergue Mitrano,Payé,Marie Limas,2025-05-29,2025-06-14,16,2,AT,£,0,0,,
+cee0c546-8b54-4559-8822-bf2fcee33381,AT - Jean-Pierre Greff,Payé,Angélina Etre,2025-07-13,2025-08-06,24,2,AT,£,0,0,,
+bd3ed01f-718c-496d-ab23-7250432aa578,AT - Corinne LAURENT,Payé,Marie Limas,2025-07-07,2025-07-18,11,2,AT,£,6000,7080,322,2254
+2e0c9059-5b3c-497c-a382-1bab2d9e84e9,AT - Olivier ARCHER,Payé,Marie Limas,2025-06-04,2025-06-13,9,2,AT,£,5000,5900,328,2296
+026245cd-b8bc-404f-a413-ecf748fdedbe,AT - Mael DODIN,Payé,Marie Limas,2025-07-13,2025-07-27,14,4,AT,£,7800,9204,164,1148
+b715fc34-2a07-485a-8475-8491260ea6c4,AT - Michel DELAS,Archivé,Marie Limas,2025-06-20,2025-07-10,20,2,AT,€,7400,7400,185,1295
+87b7627f-3fa0-458d-bff1-4dd690cd15c0,AT - Jacqueline SOMVILLE,Payé,Marie Limas,2025-06-11,2025-06-18,7,2,AT,£,6000,7080,506,3542
+80519389-4d48-4279-9ca4-73178256ffb7,AT - Michel KERAMBRUN,Payé,Marie Limas,2025-09-19,2025-09-27,8,3,AT,£,0,0,,
+df16eb76-3a81-4fb8-b43c-094362ede9b5,AT - Darragon ADRIEN,Payé,Marie Limas,2025-07-25,2025-08-02,8,4,AT,£,5000,5900,184,1288
+79ce164b-e709-48ab-98c6-8d199e549b27,AT - Elisabeth Krzentowski,Payé,Angélina Etre,2025-07-29,2025-08-12,14,4,AT,£,0,0,,
+6d227551-c3a7-40af-9427-052b92949a88,AT - Laetitia BONFILS,Payé,Marie Limas,2025-08-22,2025-08-30,8,4,AT,£,4000,4720,148,1036
+9d4c9bf6-fa49-4d6e-b092-5940fad82d74,AT - Coline Labbe,Payé,Angélina Etre,2025-08-16,2025-08-29,13,2,AT,£,0,0,,
+6e860339-de46-46a9-8f59-22668894fd6e,AT - Marilyne SOUSA,Payé,Marie Limas,2025-04-20,2025-04-30,10,4,AT,£,8000,9440,236,1652
+a49d760d-ef6c-4bd1-8b3a-a8080ca0cb0e,AT - Vanessa Maury,Payé,Angélina Etre,2025-07-28,2025-08-05,8,4,AT,£,6200,7316,229,1603
+91d2a1eb-9018-426a-b3bb-03fc03aa0058,AT - Pascal Broncin,Payé,Angélina Etre,2025-08-15,2025-08-22,7,3,AT,£,5400,6372,303,2121
+33e971c5-717f-4017-91e5-7819f69d73b4,GT - Stephane Assael,Payé,Nicolas Caisso,2025-08-18,2025-08-27,9,2,GT,£,9500,11210,623,4361
+fc9b0235-987e-4b2d-876f-c6dd72c0f0f7,AT - Anne Gaelle PEDINIELLI,Payé,Marie Limas,2025-07-26,2025-08-02,7,2,AT,£,3000,3540,253,1771
+5fbc6d90-21c5-4e77-86c1-93e63183fd9b,AT - Fenech-monfort MARIELLE,Payé,Marie Limas,2025-04-17,2025-04-26,9,2,AT,£,3400,4012,223,1561
+7efbeca7-effc-4f1a-94c1-68ffd3962d58,GT - Liliane Mancel - BN,Payé,Nicolas Caisso,2025-09-02,2025-09-11,9,6,GT,£,0,0,,
+59c08a1e-f720-4aa7-b7cb-c276d0a8937d,AT - Anne FLIES,Payé,Marie Limas,2025-06-02,2025-06-19,17,2,AT,£,7000,8260,243,1701
+013ce8dd-907c-40a0-81bd-7dafeb94f789,AT - Clemence Menahem,Payé,Angélina Etre,2025-06-21,2025-06-29,8,4,AT,£,8000,9440,295,2065
+181929f1-2d26-4033-8a31-56d05d6617f8,AT - Eleonore JULLIEN,Archivé,Marie Limas,2025-05-14,2025-05-24,10,2,AT,£,4600,5428,271,1897
+295f592f-1478-4085-8657-6f97bb2c718e,AT - Lucie Steffen-Matheron,Payé,Angélina Etre,2025-07-27,2025-08-07,11,4,AT,£,0,0,,
+41fb7dc2-50c6-4ae6-a865-cf0587b08a1f,AT - Soline DECAUX,Payé,Marie Limas,2025-07-08,2025-07-22,14,2,AT,£,5000,5900,211,1477
+369135e1-88e2-44ef-9cd8-5a8eb69bb706,AT - Yves Goulas,Payé,Angélina Etre,2025-07-15,2025-07-25,10,3,AT,£,0,0,,
+1c0ca886-5491-4f90-8371-2b4daf3c02ee,AT - Hélène Dindeleux,Payé,Angélina Etre,2025-10-16,2025-10-24,8,2,AT,£,3000,3540,221,1547
+5d7ceee1-5b9f-4155-bd49-24bd3fd8222e,GT - Vannina Cottin,Archivé,Angélina Etre,2025-05-02,2025-05-10,8,6,GT,£,0,0,,
+65603aa7-bb77-4d27-9609-150855975879,AT - Marie-odile GASPARD,Payé,Marie Limas,2025-07-15,2025-07-24,9,3,AT,£,6500,7670,284,1988
+bde5d76d-ed82-454b-a31c-3e3a4c00026c,AT - Anne Le Bec,Payé,Angélina Etre,2025-07-09,2025-07-19,10,5,AT,£,0,0,,
+9b0bc410-28df-482d-8d68-39c1fdca1143,AT - Eric Colin (Evaneos),Archivé,Nicolas Caisso,2025-05-13,2025-05-27,14,2,AT,£,0,0,,
+dce94a23-ee82-4194-95d6-865a7dcc25f1,GT - Baudouin Gravis,Archivé,Angélina Etre,2025-06-24,2025-07-01,7,4,GT,£,0,0,,
+c0f5c62b-3e30-40b8-ad7f-ae4b877d5bc8,AT - Sophie NOEL,Payé,Marie Limas,2025-07-07,2025-07-21,14,4,AT,£,10000,11800,211,1477
+90dc7c0a-291d-4dab-87e2-23059c3b11dd,AT - L'Ecosse en famille,Archivé,Jean Depreux,2025-07-12,2025-07-21,9,9,AT,£,0,0,,
+88589eef-e47e-4d1d-ab6d-1b39bc72db9b,AT - Mathilde LANG,Payé,Marie Limas,2025-07-28,2025-08-07,10,3,AT,£,0,0,,
+e36c172c-452c-4563-9b26-2f5765b643fb,AT - Jean Baptiste Sauvage,Archivé,Angélina Etre,2025-04-17,2025-04-25,8,2,AT,£,0,0,,
+6b53b782-5191-4742-a1af-ef7fddab494a,AT - Famille Teissier,Payé,Marie Limas,2025-06-16,2025-06-30,14,1,AT,£,12000,14160,1011,7077
+4d4cfff9-4b37-4f89-8ff5-36a8b91ee4bd,AT - Isabelle Beuve,Payé,Angélina Etre,2025-05-01,2025-05-10,9,4,AT,£,0,0,,
+befcb141-8250-4f3c-9b22-7e464fcb59d9,AT - Isabelle Delon,Archivé,Angélina Etre,2025-04-14,2025-04-18,4,4,AT,£,0,0,,
+e3b7e08d-a8bc-46ef-9058-2baf38181256,AT - Sara Levy,Archivé,Carole Beaumont,2025-07-21,2025-08-04,14,3,AT,£,5000,5900,140,980
+4ab926fb-c34f-405a-88f3-477e27f60ce2,AT - L'Ecosse à Deux,Payé,Jean Depreux,2025-09-07,2025-09-17,10,2,AT,£,0,0,,
+da9cea81-7179-4eae-8f28-5d1e8495143d,AT - Anne-Catherine Ribeiro,Archivé,Angélina Etre,2025-04-13,2025-04-21,8,5,AT,£,5500,6490,162,1134
+9680023d-6d17-4b4f-a3ea-e87537157a6b,AT - Capucine Bernet,Archivé,Nicolas Caisso,2025-04-05,2025-04-12,7,5,AT,£,0,0,,
+bb4ac011-1054-46fd-ab64-b03c4f4f56b4,AT - Mélanie M,Payé,Angélina Etre,2025-05-26,2025-05-31,5,6,AT,£,0,0,,
+37f299af-bc6c-44fb-acc5-1b0525c3e6cf,AT - Michel Eghels,Archivé,Angélina Etre,2025-06-03,2025-06-11,8,3,AT,£,0,0,,
+cf529148-4149-499d-865c-1c1b396867a9,AT - David Augereau,Archivé,Nicolas Caisso,2025-04-13,2025-04-21,8,4,AT,£,0,0,,
+69e20758-81c0-4c09-8a35-1163041e6cec,AT - Sandrine BOESIGER,Payé,Marie Limas,2025-06-15,2025-06-29,14,2,AT,£,6700,7906,282,1974
+e9f17c58-5059-409b-bd2f-99fdc291b99a,AT - Franck PROSPER,Payé,Marie Limas,2025-07-28,2025-08-08,11,4,AT,£,0,0,,
+cfdbf1ae-3c45-4fec-98d8-dfa673c40744,AT - Florence Majoube,Payé,Angélina Etre,2025-08-03,2025-08-17,14,3,AT,£,14000,16520,393,2751
+8ca4756b-df52-4886-be55-9da73c88d707,AT - Julie Masson (Evaneos),Payé,Carole Beaumont,2025-04-20,2025-04-27,7,6,AT,£,0,0,,
+dc836f6b-60ad-43a7-8aa7-6e296f177e2e,AT - Myriam Ledermann,Payé,Nicolas Caisso,2025-07-22,2025-08-01,10,4,AT,£,0,0,,
+542e580e-3336-4357-83c7-4ffbda8773a0,AT - Carole Delachanal,Payé,Nicolas Caisso,2025-04-19,2025-04-27,8,5,AT,£,0,0,,
+56e3136b-f4fb-4279-8086-e693ba384fdd,AT - Renaud Gabriel (Evaneos),Archivé,Carole Beaumont,2025-07-28,2025-08-11,14,4,AT,£,0,0,,
+95e8b96a-7a1c-492f-afd7-f9dd5e465714,AT - Florence Julian,Archivé,Angélina Etre,2025-04-26,2025-05-05,9,2,AT,£,0,0,,
+9da67161-86fc-47de-b623-8e9597e18c02,AT - Gilles Bernasconi,Payé,Nicolas Caisso,2025-07-26,2025-08-03,8,2,AT,€,0,0,,
+b87254e2-a230-4e7a-a09c-50abfe19b2b2,AT - Arielle Beddock,Payé,Marie Limas,2025-06-23,2025-07-01,8,2,AT,£,3000,3540,221,1547
+00a381de-101b-4620-ad9f-7ccf8653d12b,AT - L'Ecosse et ses îles,Archivé,Jean Depreux,2025-08-07,2025-08-22,15,4,AT,£,0,0,,
+a26bb520-7684-437b-ac8e-dd2e6f295612,AT - Christine DUDDE,Payé,Marie Limas,2025-06-16,2025-07-01,15,2,AT,£,6000,7080,236,1652
+445cb1c4-892e-40a6-9b31-70c70a2baf36,AT - Karine DESVILLES,Payé,Marie Limas,2025-07-20,2025-08-01,12,4,AT,£,8000,9440,197,1379
+75f9dcce-2bb8-4ece-a803-d269568d526d,AT - Francois BUISSET,Payé,Marie Limas,2025-08-09,2025-08-18,9,2,AT,£,4000,4720,262,1834
+137dfaf9-7627-4b99-b8ae-2d6e6f1d8c27,AT - Adrien Tieche,Archivé,Nicolas Caisso,2025-02-23,2025-03-01,6,2,AT,£,0,0,,
+a59ecd26-d152-419f-b88c-8d3630c76033,GT - Laschon,Payé,Angélina Etre,2025-05-14,2025-05-26,12,4,GT,£,16000,18880,393,2751
+7e9fa62d-92dd-43a6-b7a7-efdb473c7cd0,AT - Luc Tavernier (Evaneos),Archivé,Carole Beaumont,2025-07-10,2025-07-25,15,4,AT,£,0,0,,
+d4853b87-2d2c-4e06-a450-657fcf3df512,GT - Brigitte Denat,Payé,Nicolas Caisso,2025-06-12,2025-06-21,9,5,GT,£,0,0,,
+7cb8f4a7-5636-4f21-9daf-d484c82c7d95,AT - Valérie Dumont,Payé,Nicolas Caisso,2025-06-09,2025-06-20,11,2,AT,£,0,0,,
+59106578-629d-4e8b-b54b-4deb91165645,AT - Richard Dzikowski,Payé,Nicolas Caisso,2025-06-11,2025-06-22,11,4,AT,£,0,0,,
+ebf86e6d-d814-4710-bbcd-7a5c1d56d645,AT - Sur les traces de Peter May,Archivé,Jean Depreux,2025-05-12,2025-05-25,13,2,AT,£,0,0,,
+0fcd89ec-749f-478a-9dc6-8d85dab1f724,AT - Frédérique Mazuir (Evaneos),Payé,Carole Beaumont,2025-08-09,2025-08-21,12,4,AT,£,0,0,,
+9c6b0392-66ff-4ca2-85ec-2d4c8e18a493,AT - Noémie Nadé (Evaneos),Archivé,Carole Beaumont,2025-04-07,2025-04-13,6,5,AT,£,0,0,,
+7ae9a866-c9d4-4fd6-a83d-491aa38fd763,AT - Raymonde Belzung,Payé,Nicolas Caisso,2025-06-20,2025-06-27,7,4,AT,£,0,0,,
+aa1f4945-f170-42be-8864-efc5290654ea,AT - Perrine Beague (Evaneos),Archivé,Carole Beaumont,2025-04-12,2025-04-19,7,4,AT,£,0,0,,
+6a2157a1-2d68-4107-bdff-a92db5af9a19,GT - Françoise Bouhier,Archivé,Carole Beaumont,2025-08-02,2025-08-10,8,16,GT,£,0,0,,
+c9a5f177-029d-464e-98cc-2064cd132edb,AT - Monique Audette,Payé,Carole Beaumont,2025-02-12,2025-02-24,12,2,AT,£,0,0,,
+7c80e604-3508-4f5a-886c-b5eed666c2b6,GT - Nathalie Etievant-Michel,Payé,Nicolas Caisso,2025-05-23,2025-06-03,11,6,GT,£,0,0,,
+7f7c24be-1511-4e44-a10c-11fdde174890,AT - Stéphane Mex,Payé,Carole Beaumont,2026-04-05,2026-04-17,12,5,AT,€,0,0,,
+fb7c3084-aba6-4ac3-bab5-8587b43395bf,AT - Famille MONTAZAUD,Archivé,Marie Limas,2025-07-19,2025-07-31,12,4,AT,£,0,0,,
+837d0518-9076-472f-9225-8c0d5234a17b,GT - Pezenas 2025,Résa à finaliser (Acompte Versé),Nicolas Caisso,2025-09-12,2025-09-21,9,6,GT,£,0,0,,
+194ae5f4-d533-4782-bc47-526004b2b988,AT - 9D - Gérard Veny,Archivé,Nicolas Caisso,2025-05-02,2025-05-10,8,3,AT,€,0,0,,
