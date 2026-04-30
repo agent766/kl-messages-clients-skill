@@ -114,6 +114,28 @@ Nomenclature des templates internes :
 
 Détails dans `ressources/sales-process-evaneos.md`.
 
+## Sous-skills thématiques
+
+### Transports en commun en Écosse
+
+Pour toute demande prospect impliquant un voyage en train, sans voiture,
+en transports en commun, ou les mots-clés "Spirit of Scotland",
+"Caledonian Sleeper", "Jacobite Steam Train", "ScotRail", lire d'abord :
+`skill/ressources/transports-commun/SKILL.md`
+
+Ce sous-skill couvre l'ensemble du cycle de vente sur ce segment, en
+13 fichiers structurés en 7 phases :
+
+- Analyse concurrentielle et positionnement
+- Cartographie 2026 des opérateurs (ScotRail, Citylink, CalMac, NorthLink)
+  et de leurs forfaits multimodaux
+- T&Cs prestataires et articulation avec CGV Kilt & Licorne
+- Contenus voyageur prêts à coller (devis, carnet, mails, FAQ, page web)
+- Segmentation commerciale en 4 formats
+  (Sérénité/Grand Large × Continentale/Insulaire)
+- Gestion des petits trajets locaux et applications mobiles
+- Politique remboursement avec alternative voucher restaurant
+
 ## Méthode d'apprentissage
 
 À chaque correction de Nicolas ou d'un agent :
