@@ -246,6 +246,28 @@ Ce projet est conçu pour s'améliorer à chaque correction. Workflow systémati
 
 ---
 
+### Skill transports en commun
+
+Pour toute demande prospect concernant un voyage en train, sans voiture,
+en transports en commun, ou contenant les déclencheurs "Spirit of Scotland",
+"Caledonian Sleeper", "Jacobite", "ScotRail", "sans voiture",
+"je ne veux pas conduire", "je préfère le train" :
+
+1. Lire en priorité `skill/ressources/transports-commun/SKILL.md`
+2. Suivre le workflow conseiller à 5 étapes décrit dans ce SKILL.md
+3. Qualifier d'abord le format commercial parmi Sérénité Continentale,
+   Sérénité Insulaire, Grand Large Continental, Grand Large Insulaire
+4. Choisir le squelette géographique (modèles A à E) compatible
+5. Appliquer les règles R1 à R18 et éviter les erreurs E1 à E12
+6. Pour la rédaction client, invoquer humanizer-kl avant tout texte
+   et appliquer les règles transverses du repo
+
+Ce skill a été construit en avril 2026 et est à jour des tarifs
+opérateurs 2026 (Spirit of Scotland £155/£196, Highland Rover £99,
+ETA £20/pers, etc.).
+
+---
+
 ## Limites de Claude.ai web par rapport à l'environnement Cowork d'origine
 
 - Pas de scrape direct des dossiers Ezus / Evaneos depuis le chat
