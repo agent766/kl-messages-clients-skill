@@ -69,6 +69,7 @@ En français, en respectant la voix de l'agent + les règles plateforme + le for
 |---|---|
 | 01 | Premier contact |
 | 02 | Découverte des besoins |
+| 02b | Compte rendu d'appel de découverte |
 | 03 | Envoi de proposition |
 | 04 | Relance silencieuse |
 | 05 | Objection prix |
