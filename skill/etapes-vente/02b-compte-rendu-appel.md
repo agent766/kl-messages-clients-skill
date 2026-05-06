@@ -138,3 +138,34 @@ Toutes les règles transverses s'appliquent :
 ## Exemple de transformation notes → message
 
 ### Notes brutes (exemple)
+### Message rédigé (ton Marie / Destination-Écosse)
+
+Suite à notre échange de ce matin, voici comment j'ai compris votre projet.
+
+Vous partez à quatre en juillet 2027, deux adultes et deux enfants de 8 et 12 ans, pour un premier vrai voyage en Écosse. Édimbourg est déjà derrière vous : on ira directement vers l'Écosse sauvage, avec l'île de Skye comme point fort et les Highlands en toile de fond. Le rythme sera posé, avec des étapes raisonnables et des distances de conduite que je veillerai à garder gérables, d'autant que la conduite à gauche sera une nouveauté. Pour les hébergements, vous cherchez des adresses avec du caractère.
+
+Points retenus de notre échange :
+
+- Skye : incluse, sur une bonne durée
+- Pas d'étape Édimbourg
+- Randonnées légères adaptées aux enfants intégrées comme suggestions
+- Distances de conduite quotidiennes limitées
+
+Quelques points restent à préciser :
+
+- Budget terrestre : si vous avez une fourchette en tête, même approximative, ça m'aidera à calibrer la gamme d'hébergements.
+- Allergie aux chats de votre mari : à confirmer de votre côté avant la sélection des adresses.
+
+Je vous envoie une première proposition d'ici le [date].
+
+[Signature Marie]
+
+---
+
+## Points ouverts à lister en fin de chat (pour l'agent, pas dans le message client)
+
+Après chaque rédaction de compte rendu d'appel, Claude liste :
+
+- Les informations absentes des notes qui pourraient bloquer la construction de la proposition (budget, composition groupe, dates fermes, etc.)
+- Les points à confirmer par le client avant sélection des hébergements
+- La date de livraison de la proposition si non précisée dans les notes
