@@ -88,7 +88,8 @@ Une fiche fusion premier contact best-of-three plateformes existe : `etapes-vent
 ## Règles transverses non négociables
 
 - Séparation absolue des marques entre plateformes
-- ByNativ nommé uniquement sur Destination-Écosse (B et N majuscules)
+- Sur Destination-Écosse uniquement : ByNativ (réseau d'agences parent, B et N majuscules) et Mister Fly (partenaire vols dédié, M et F majuscules). Ne pas confondre les deux
+- Sur Kilt & Licorne et Evaneos : partenaire vols = Option Way (nommé sur KL si pertinent, anonymé en "notre partenaire vols" sur Evaneos)
 - Hôtels jamais nommés avant booking confirmé
 - Un seul CTA principal par message
 - Pas de mots IA, pas d'em-dash, pas de Markdown gras

@@ -43,7 +43,7 @@ Longueur cible : 10 à 18 lignes.
 ### Destination-Écosse
 
 - Plus consultative, présenter les options en tableau si plus de 2 leviers
-- ByNativ peut proposer des vols moins chers en alternative
+- Mister Fly peut proposer des vols moins chers en alternative
 
 ## Pièges
 

@@ -52,7 +52,7 @@ Longueur cible : 15 à 25 lignes.
 ### Destination-Écosse
 
 - Structure plus formelle (Marie consultative)
-- ByNativ par son nom si vols inclus
+- Mister Fly par son nom si vols inclus (partenaire vols dédié DE, M et F majuscules)
 - Récap en gras toléré (manuel dans l'éditeur cible)
 - Séparateurs `---` autorisés
 
@@ -80,7 +80,7 @@ Voir `humanizer-kl-rules.md` §1.4 et `sales-process-evaneos.md` §faiblesses.
 
 ## Notes
 
-- Sur Evaneos : jamais ByNativ par son nom, dire "notre partenaire vols"
+- Sur Evaneos : jamais ByNativ ni Mister Fly par leur nom, dire "notre partenaire vols" (Option Way en réalité)
 - Bullets pour next steps administratives : OK (validé par 2.1)
 - Message vocal court ou vidéo accompagnant le devis : booste la conversion de **+25%** (Family Sales Process Module 3)
 - Engagement sur un rappel téléphonique daté : marqueur fort, ne pas le formuler en optionnel

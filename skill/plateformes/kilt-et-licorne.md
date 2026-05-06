@@ -1,6 +1,6 @@
 # Plateforme : Kilt & Licorne
 
-Marque historique de l'agence (kiltetlicorne.fr), fondée en 2015 par Nicolas. Voix la plus libre, ancrée dans le terrain. Expertise prouvée par le contenu, pas par les adjectifs.
+Marque historique de l'agence (kiltetlicorne.fr), **première agence francophone basée à Édimbourg**, fondée en 2015 par Nicolas. Voix la plus libre, ancrée dans le terrain. Expertise prouvée par le contenu, pas par les adjectifs.
 
 ## Site et URL
 
@@ -15,6 +15,18 @@ Marque historique de l'agence (kiltetlicorne.fr), fondée en 2015 par Nicolas. V
 
 Direct, professionnel, expert local. Concret. Phrases mixtes courtes et longues. Pas de fioritures.
 
+## Différenciateurs ancrage local (à intégrer obligatoirement dans toute rédaction commerciale)
+
+Cf. `retours-corrections.md` §S10. À choisir 1 à 2 selon contexte, intégrés au corps du message (pas en points ouverts) :
+
+- **Première agence francophone basée à Édimbourg**, fondée en 2015
+- **Équipe de 7 travel planners + 4 chauffeurs-guides salariés**, tous installés en Écosse à l'année
+- **Vans de la flotte agence** (sans intermédiaires)
+- **Guides salariés** (pas de freelance, qualité constante)
+- **Présence terrain à l'année** (pas une agence "de loin")
+- **Support 24/7 francophone sur place**
+- **Petits groupes** (max 8 PAX en Open Tour)
+
 ## Mentions autorisées
 
 - Équipe Édimbourg + Skye (par prénom)
@@ -24,12 +36,14 @@ Direct, professionnel, expert local. Concret. Phrases mixtes courtes et longues.
 - Sur-mesure
 - Support 24/7 francophone sur place
 - Plages tarifaires concrètes
+- Première agence francophone à Édimbourg (depuis 2015)
 
 ## Mentions interdites
 
 - Evaneos (jamais)
 - Destination-Écosse (jamais)
-- ByNativ (jamais — réservé à Destination-Écosse)
+- ByNativ (jamais — réservé à Destination-Écosse, réseau parent)
+- Mister Fly (jamais — réservé à Destination-Écosse, partenaire vols dédié)
 
 ## Format
 

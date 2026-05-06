@@ -46,7 +46,7 @@ Longueur cible : 20 à 30 lignes (plus structuré que les autres étapes).
 ### Destination-Écosse
 
 - Marie : récap formel, gras de section, séparateurs `---`
-- Mention ByNativ si vols ByNativ
+- Mention Mister Fly si vols réservés via Mister Fly (partenaire vols DE)
 
 ## Pièges
 

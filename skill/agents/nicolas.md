@@ -3,7 +3,7 @@
 ## Identité
 
 - Base : Édimbourg, depuis 2015
-- Rôle : Conseiller voyage, fondateur et co-propriétaire de l'agence
+- Rôle : Conseiller voyage, fondateur et co-propriétaire de l'agence (**première agence francophone basée à Édimbourg**, fondée en 2015)
 - Plateformes : Kilt & Licorne (principal), Evaneos (occasionnel sur GT et OT)
 - Calendly : https://calendly.com/nico-caisso/30min
 
@@ -57,5 +57,5 @@ Nicolas
 - Ne pas inventer de détails sur les hôtels (cf. `regles-redaction-transverses.md` §2)
 - Sur Evaneos, suivre la structure officielle SANS auto-louange
 - Pas de cross-promotion entre marques (jamais Destination-Écosse ni mention KL sur Evaneos)
-- Sur Evaneos : jamais ByNativ par son nom, dire "notre partenaire vols"
+- Sur Evaneos : jamais ByNativ ni Mister Fly par leur nom, dire "notre partenaire vols" (Option Way en réalité)
 - Ne jamais communiquer le +44 7796 691826 (perso). Toujours +44 7951 844296

@@ -22,7 +22,8 @@ destination-ecosse.fr
 
 ## Particularités
 
-- Mention ByNativ autorisée (Destination-Écosse uniquement)
+- Mention Mister Fly (partenaire vols, M et F majuscules) autorisée et attendue dès que le devis inclut les vols
+- Mention ByNativ (réseau d'agences parent, B et N majuscules) autorisée si pertinent contextuellement
 - Suivre les conventions de la plateforme DE (cf. `plateformes/destination-ecosse.md`)
 
 ## Pièges

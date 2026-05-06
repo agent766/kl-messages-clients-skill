@@ -7,6 +7,7 @@ Voix sobre, personnelle, sans cross-promotion.
 ## Agents
 
 - Alison Spence (principale)
+- Angélina Etre (active sur Evaneos aux côtés de Nicolas et de l'équipe — voix enthousiaste dosée, cf. `agents/angelina.md`)
 - Nicolas Caisso (occasionnel sur GT et Open Tour)
 
 ## Ton de référence

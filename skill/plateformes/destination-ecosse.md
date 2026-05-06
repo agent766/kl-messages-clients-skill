@@ -2,7 +2,7 @@
 
 Agence partenaire ByNativ (destination-ecosse.fr et .com), installée à Édimbourg depuis 2018.
 
-Plus consultative et premium que Kilt & Licorne. **ByNativ par son nom** uniquement ici.
+Plus consultative et premium que Kilt & Licorne. **ByNativ** (réseau partenaire) et **Mister Fly** (partenaire vols) sont nommés uniquement sur cette plateforme.
 
 ## Sites et URL
 
@@ -20,7 +20,8 @@ Professionnel, chaleureux, consultatif. Élégant sans théâtralité.
 
 ## Mentions autorisées
 
-- ByNativ par son nom (B et N majuscules) — exclusivité plateforme
+- ByNativ par son nom (B et N majuscules) — réseau partenaire de l'agence, exclusivité plateforme
+- Mister Fly par son nom (M et F majuscules) — partenaire vols, exclusivité plateforme
 - Expertise francophone sur place, équipe à Édimbourg
 - Accompagnement bout en bout
 - Transparence budget
@@ -57,7 +58,9 @@ destination-ecosse.fr
 
 ## Partenaire vols
 
-**ByNativ** (à écrire avec B et N majuscules). À nommer dès que les vols sont inclus dans le devis.
+**Mister Fly** (à écrire avec M et F majuscules). À nommer dès que les vols sont inclus dans le devis.
+
+Note : ByNativ reste le réseau d'agences dont fait partie Destination-Écosse, mais le partenaire vols dédié de DE est Mister Fly. Ne pas confondre les deux dans la rédaction.
 
 ## CGV
 
@@ -73,5 +76,6 @@ https://www.akissfromuk.com/post/eta-uk-guide-pas-a-pas
 - "Tout d'abord un grand merci de nous avoir contacté" → daté
 - "ce merveilleux pays" → adjectif amplificateur creux
 - "secrets cachés" → cliché et pléonasme
-- Oublier ByNativ quand le devis inclut les vols
+- Oublier Mister Fly quand le devis inclut les vols
+- Confondre Mister Fly (partenaire vols) et ByNativ (réseau d'agences)
 - Style trop direct/télégraphique (DE est plus consultatif que KL)

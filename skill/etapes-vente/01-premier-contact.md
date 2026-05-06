@@ -44,7 +44,7 @@ Longueur cible : 15 à 25 lignes.
 
 - Ton consultatif maintenu
 - Transparence budget plus marquée
-- ByNativ par son nom si vols évoqués
+- Mister Fly par son nom si vols évoqués (partenaire vols dédié DE)
 
 ## Pièges
 

@@ -59,7 +59,7 @@ Longueur cible : 5 à 8 lignes.
 ### Destination-Écosse
 
 - Ton consultatif maintenu, pas plus pressant qu'un échange normal
-- Mention ByNativ si pertinent dans la réassurance ("notre partenaire ByNativ a confirmé la disponibilité des vols")
+- Mention Mister Fly si pertinent dans la réassurance ("notre partenaire vols Mister Fly a confirmé la disponibilité des vols")
 
 ## Pièges du template officiel à corriger
 

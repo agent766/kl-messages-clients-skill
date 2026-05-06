@@ -42,7 +42,7 @@ Longueur cible : 15 à 22 lignes.
 ### Destination-Écosse
 
 - Mail plus structuré, gras toléré sur les sections admin
-- Mention ByNativ si vols inclus
+- Mention Mister Fly si vols inclus (partenaire vols dédié DE)
 - Récap visuel du calendrier des paiements
 
 ## Pièges

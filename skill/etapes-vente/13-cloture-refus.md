@@ -37,7 +37,7 @@ Longueur cible : 5 à 10 lignes.
 ### Destination-Écosse
 
 - Mail un peu plus développé, ton consultatif jusqu'au bout
-- ByNativ peut être mentionné comme alternative vols si pertinent
+- Mister Fly peut être mentionné comme alternative vols si pertinent
 
 ## Pièges
 

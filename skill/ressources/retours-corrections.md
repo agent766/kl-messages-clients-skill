@@ -134,13 +134,24 @@ vs ❌ "Je pense au Sutherland, à l'Argyll, aux Cairngorms côté est, ou à ce
 
 ---
 
-### F8 — Convention "ByNativ" en majuscules
+### F8 — Conventions de noms partenaires
 
-**Règle** : écrire **"ByNativ"** (B et N majuscules), pas "byNativ" ni "Bynativ".
+**Règles d'orthographe** :
 
-S'applique partout dans les messages clients DE et dans les communications internes.
+| Nom | Orthographe correcte | Erreurs à éviter |
+|---|---|---|
+| ByNativ | **ByNativ** (B et N majuscules) | byNativ, Bynativ, BYNATIV |
+| Mister Fly | **Mister Fly** (M et F majuscules, espace au milieu) | misterfly, Misterfly, MisterFly, mister fly |
+| Option Way | **Option Way** (O et W majuscules, espace) | optionway, Optionway, OptionWay |
 
-**Source** : retour Nicolas, 28 avril 2026.
+**Distinction critique sur Destination-Écosse** :
+
+- **ByNativ** = réseau d'agences parent dont fait partie DE (mention contextuelle)
+- **Mister Fly** = partenaire vols dédié DE (mention dans tout devis avec vols)
+
+Ne pas confondre les deux. Sur Evaneos et KL, ces deux noms sont interdits (Option Way est le partenaire vols KL/Evaneos).
+
+**Source** : retour Nicolas 28 avril 2026 (ByNativ initial), mise à jour 6 mai 2026 (ajout Mister Fly + clarification réseau vs partenaire vols).
 
 ---
 
@@ -347,6 +358,32 @@ Deux travers documentés à corriger :
 
 ---
 
+### S10 — Sur Kilt & Licorne, intégrer obligatoirement au moins un différenciateur d'ancrage local
+
+**Règle ajoutée le 6 mai 2026 (retour Nicolas, test 3 Angélina/KL).**
+
+Dans toute rédaction commerciale Kilt & Licorne (premier contact, proposition, relance, report, modification), au moins **un différenciateur concret d'ancrage local** doit être intégré au corps du message, pas en points ouverts ni en sous-entendu.
+
+**Différenciateurs disponibles** (cf. `plateformes/kilt-et-licorne.md` §différenciateurs) :
+
+- **Première agence francophone basée à Édimbourg**, fondée en 2015
+- **Équipe de 7 travel planners + 4 chauffeurs-guides salariés**, tous installés en Écosse à l'année
+- **Vans de la flotte agence** (sans intermédiaires)
+- **Guides salariés** (pas de freelance, qualité constante)
+- **Présence terrain à l'année**
+- **Support 24/7 francophone sur place**
+- **Petits groupes** (max 8 PAX en Open Tour)
+
+**Pourquoi** : KL différencie sa proposition par son ancrage local et son expertise terrain. Un message KL sans différenciateur est interchangeable avec un message DE/Evaneos générique, ce qui dilue la marque. C'est l'équivalent KL du "tell d'agent local" prescrit par `humanizer-kl-rules.md` §6.
+
+**Quand on ne sait pas quoi choisir** : par défaut, mentionner soit l'ancienneté ("première agence francophone basée à Édimbourg, depuis 2015"), soit l'équipe chiffrée ("notre équipe de 7 travel planners et 4 chauffeurs-guides salariés"), soit les deux selon la longueur du message.
+
+**Vérification avant livraison Kilt & Licorne** : `Ctrl+F` sur "salariés", "francophone", "Édimbourg", "flotte", "2015". Au moins un de ces termes doit apparaître dans le corps du message client.
+
+**Source** : retour Nicolas 2026-05-06 après test 3 (Angélina/KL/05c). Le draft livré ne contenait aucun différenciateur d'ancrage local, le rendant indistinguable d'un draft DE/Evaneos sans ses partenaires nommés.
+
+---
+
 ## Historique des corrections
 
 ### 2026-04-28 — Économie chambre familiale (Mme Maeva MALASPINA)
@@ -417,6 +454,39 @@ Deux travers documentés à corriger :
 
 **Effet attendu sur le 3e draft** : zéro "pas de problème", "20 à 30%" présent en formulation douce, ByNativ et acompte chiffré conservés.
 
+### 2026-05-06 — Test 3 Angélina/KL : régressions persistantes + nouvelles règles
+
+**Contexte** : 3e test du skill, configuration Angélina (squelette) sur Kilt & Licorne, scénario 05c report 2027, devis 4 200 € pour un couple.
+
+**Score** : 4/8 critères passés, 4 régressions.
+
+**Critères passés** :
+
+1. Acompte chiffré : "420 € (10% du montant)" → S9 §exemple 3 OK
+2. Zéro "pas de problème" → §1.6 humanizer appliqué (Claude a élidé le connecteur passif)
+3. Aucune mention DE/Evaneos/ByNativ → séparation des marques OK
+4. Sign-off Angélina/KL correct
+
+**Critères échoués** :
+
+1. "20 à 30%" toujours absent (4e occurrence consécutive : Marie 1, Marie 2, Angélina) → pattern Claude global qui résiste aux règles textuelles
+2. Option Way absent (régression nouvelle, spécifique KL) → lacune structurelle dans `05c.md` §Variations KL non explicite
+3. Aucun différenciateur KL (équipe 7+4, guides salariés, vans flotte, première agence francophone) → message générique, indistinguable d'un draft DE débranché de Mister Fly
+4. Pas de signal explicite que la voix Angélina était squelette → mineur
+
+**Décisions Nicolas** :
+
+1. Mettre à jour les fiches : Mister Fly = partenaire vols dédié DE (remplace ByNativ qui reste le réseau parent). Option Way reste partenaire vols KL/Evaneos. F8 mise à jour.
+2. Ajouter "première agence francophone basée à Édimbourg" comme différenciateur fort KL dans la fiche plateforme et la fiche Nicolas
+3. Renforcer 05c §Variations KL avec mention Option Way intégrée + différenciateurs ancrage local
+4. Créer S10 : sur KL, au moins un différenciateur d'ancrage local obligatoirement intégré au corps du message
+5. Compléter agents/angelina.md avec sa voix réelle (27 ans, guide-conférencière, voix enthousiaste dosée, structure pédagogique, "nous"/"je" jamais "on", numéro perso français interdit)
+6. Ajouter Angélina dans plateformes/evaneos.md (sa plateforme principale)
+
+**Effet attendu sur le 4e draft** : différenciateur ancrage local KL présent, Option Way mentionné si vols évoqués, "20 à 30%" présent en formulation douce, acompte chiffré conservé.
+
+**Règles apprises** : F8 (mise à jour Mister Fly), S10 (différenciateurs KL obligatoires).
+
 ---
 
 ## Workflow d'enrichissement
@@ -437,3 +507,4 @@ Deux travers documentés à corriger :
 | 28 avril 2026 | Création de la fiche, règles F1 + S1-S4 |
 | 6 mai 2026 | Ajout règle S9 (Marie/DE adoucit les leviers chiffrés). Source : test draft Marie 05c report 2027 |
 | 6 mai 2026 | Généralisation S9 à tous les agents et plateformes + ajout verrou Ctrl+F. Renforcement croisé via humanizer §1.6 (connecteurs passifs). Source : 2e test draft Marie 05c |
+| 6 mai 2026 | F8 mise à jour (ajout Mister Fly = partenaire vols dédié DE, distinction avec ByNativ réseau parent). Ajout S10 (différenciateurs KL obligatoires). Source : 3e test draft Angélina/KL/05c. Voix Angélina complétée par Nicolas. |

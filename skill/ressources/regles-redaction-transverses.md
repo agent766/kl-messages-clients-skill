@@ -8,11 +8,19 @@ Cette fiche est complétée par `retours-corrections.md` (règles apprises au fi
 
 | Plateforme | Mentions interdites |
 |---|---|
-| Kilt & Licorne | Evaneos, Destination-Écosse, ByNativ |
-| Evaneos | Kilt & Licorne, Destination-Écosse, ByNativ par son nom |
-| Destination-Écosse | Kilt & Licorne, Evaneos |
+| Kilt & Licorne | Evaneos, Destination-Écosse, ByNativ, Mister Fly |
+| Evaneos | Kilt & Licorne, Destination-Écosse, ByNativ, Mister Fly (partenaire vols Option Way anonymé en "notre partenaire vols") |
+| Destination-Écosse | Kilt & Licorne, Evaneos, Option Way |
 
-ByNativ est nommé uniquement sur Destination-Écosse, avec B et N majuscules. Sur Evaneos, on dit "notre partenaire vols" sans le nommer (Evaneos officiel = Option Way).
+**Partenaires vols par plateforme** :
+
+| Plateforme | Partenaire vols | Mention |
+|---|---|---|
+| Kilt & Licorne | Option Way | Peut être nommé si pertinent |
+| Evaneos | Option Way | Anonymé en "notre partenaire vols" (Evaneos officiel) |
+| Destination-Écosse | **Mister Fly** | Nommé dès que les vols sont inclus (M et F majuscules) |
+
+**ByNativ** : réseau d'agences parent dont fait partie Destination-Écosse. Nommé uniquement sur Destination-Écosse, avec B et N majuscules. **Ne pas confondre avec Mister Fly** qui est le partenaire vols dédié de DE.
 
 ## 2. Hôtels jamais nommés avant booking confirmé
 

@@ -40,7 +40,7 @@ Longueur cible : 12 à 20 lignes.
 
 ### Destination-Écosse
 
-- Mettre en avant la personnalisation francophone bout en bout + ByNativ pour les vols
+- Mettre en avant la personnalisation francophone bout en bout + Mister Fly pour les vols
 
 ## Pièges
 

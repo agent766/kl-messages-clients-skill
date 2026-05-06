@@ -88,15 +88,28 @@ m'organise en conséquence.
 
 ## Variations plateforme
 
-### Kilt & Licorne (Nicolas)
+### Kilt & Licorne (Nicolas, Angélina, ou autre agent KL)
 
-Ajouter un tell de présence terrain dans l'option A pour ancrer la crédibilité :
+**Différenciateurs ancrage local à intégrer obligatoirement** dans l'option A pour ancrer la crédibilité (cf. `retours-corrections.md` §S10) :
+
+- Première agence francophone basée à Édimbourg, fondée en 2015
+- Équipe de 7 travel planners + 4 chauffeurs-guides salariés, tous installés en Écosse à l'année
+- Vans de la flotte agence (sans intermédiaires)
+- Présence terrain à l'année
+
+**Tell de présence terrain à inclure** :
 
 > "Pour info, sur juin-juillet 2027 à Skye, on a déjà 3 maisons d'hôtes partenaires qui ont confirmé leurs tarifs 2026. Au-delà de juin sur les calendriers hôteliers, c'est inflation classique."
 
-Ton plus direct que la version transverse. WhatsApp possible en relance courte si pas de réponse en 5-7 jours.
+**Mention partenaire vols à intégrer au corps Option A** (en miroir de ce que DE fait avec Mister Fly) :
 
-Sign-off : "Bien à vous, Nicolas"
+> "Pour les vols, notre partenaire Option Way ouvre les pré-réservations 2027 dès septembre 2026, ce qui permet de verrouiller les meilleurs tarifs Édimbourg ou Glasgow."
+
+**Acompte chiffré obligatoire** : si le devis a un montant connu, écrire "10%, soit X €" (cf. S9 verrou).
+
+Ton plus direct que la version transverse, mais l'ancrage local doit être présent. WhatsApp possible en relance courte si pas de réponse en 5-7 jours (numéro agence +44 7951 844296, jamais le perso).
+
+Sign-off : "Bien à vous, Nicolas" (ou "Angélina / Kilt & Licorne" si signée par un autre agent)
 
 ### Evaneos (Alison)
 
@@ -106,17 +119,19 @@ Reformuler l'option A en plus sobre :
 
 > "Engagement possible dès maintenant à 10% d'acompte pour verrouiller les tarifs en cours."
 
-Pas de jeu sur les marques. Pas de mention ByNativ.
+Pas de jeu sur les marques. Sur Evaneos, le partenaire vols (Option Way) reste **anonymé** : "notre partenaire vols" sans le nommer. Aucune mention de ByNativ ni de Mister Fly (ces deux noms restent réservés à Destination-Écosse).
 
 Sign-off : "Bien à vous,"
 
-### Destination-Écosse (Marie)
+### Destination-Écosse (Marie, Emily)
 
-Élargir l'option A avec la mention ByNativ pour les vols 2027 :
+Élargir l'option A avec la mention Mister Fly pour les vols 2027 (partenaire vols dédié DE, à ne pas confondre avec ByNativ qui est le réseau d'agences parent) :
 
-> "Si vous engagez maintenant, je peux aussi solliciter notre partenaire ByNativ pour pré-réserver vos vols 2027. Les vols Édimbourg sortent en pré-réservation à partir de septembre 2026, c'est là que les meilleurs tarifs apparaissent."
+> "Si vous engagez maintenant, je peux aussi solliciter notre partenaire vols Mister Fly pour pré-réserver vos vols 2027. Les vols Édimbourg sortent en pré-réservation à partir de septembre 2026, c'est là que les meilleurs tarifs apparaissent."
 
 Possibilité d'ajouter un bloc "Récap" structuré en fin de message (gras toléré sur DE pour récap, manuel dans l'éditeur cible).
+
+**Acompte chiffré obligatoire** : si le devis a un montant connu, écrire "10%, soit X €" (cf. S9 verrou).
 
 Sign-off : "Marie / Destination-Écosse / destination-ecosse.fr"
 
@@ -138,8 +153,9 @@ Sign-off : "Marie / Destination-Écosse / destination-ecosse.fr"
 
 ### Pièges plateforme
 
-- Sur Evaneos : ne pas mentionner Kilt & Licorne, Destination-Écosse, ni ByNativ par son nom
-- Sur Destination-Écosse : ByNativ par son nom autorisé, à utiliser sur l'option A pour les vols
+- Sur Evaneos : ne pas mentionner Kilt & Licorne, Destination-Écosse, ni ByNativ, ni Mister Fly par leur nom (le partenaire vols Option Way reste anonymé en "notre partenaire vols")
+- Sur Kilt & Licorne : Option Way peut être nommé (partenaire vols KL/Evaneos), pas de mention ByNativ ni Mister Fly. Ne pas mentionner Destination-Écosse ni Evaneos
+- Sur Destination-Écosse : Mister Fly par son nom autorisé (partenaire vols dédié), à utiliser sur l'option A pour les vols. ByNativ peut être mentionné comme réseau d'agences parent, mais ne pas confondre avec le partenaire vols
 - Sur toutes les plateformes : ne pas nommer un hôtel précis avant booking confirmé (cf. `regles-redaction-transverses.md` §2)
 
 ## Workflow agence après envoi
