@@ -308,32 +308,42 @@ Avant chaque rédaction de message client (premier contact, accompagnement de de
 
 ---
 
-### S9 — Marie/DE : ne pas effacer les chiffres ni externaliser les leviers concrets
+### S9 — Préserver les chiffres et intégrer les leviers concrets prescrits par les fiches
 
-**Règle ajoutée le 6 mai 2026 (retour Nicolas, test fiche 05c report 2027 Marie)**.
+**Règle ajoutée le 6 mai 2026 (retour Nicolas, tests successifs fiche 05c report 2027). Généralisée à tous les agents et plateformes le 6 mai 2026.**
 
-Sur Destination-Écosse, la voix Marie consultative tend à deux travers à corriger :
+Tous les agents (Nicolas, Marie, Alison, Emily, et squelettes Johanna/Angélina/Carole/Anastassia) ont une tendance variable à adoucir une fiche source au moment de la rédaction. Marie est la plus prone (consultativité), mais Nicolas, Alison et les autres peuvent reproduire le même travers, surtout sur les sujets sensibles (prix, engagement, vols partenaires, budgets clients).
+
+Deux travers documentés à corriger :
 
 1. **Adoucir les quantifications chiffrées** au point de les faire disparaître (ex : "20 à 30%" remplacé par "haute saison publiée")
-2. **Externaliser les leviers concrets en points ouverts** agence (ex : ByNativ pour les vols 2027 listé en option pour l'agent au lieu d'être intégré au message client)
+2. **Externaliser les leviers concrets en points ouverts** agence au lieu de les intégrer au message client (ex : ByNativ vols, montant exact d'acompte, mention de partenaire, plage budget précise)
 
-**Règle** : la consultativité ne doit pas effacer les chiffres ni renvoyer les leviers commerciaux à l'externe. Garder les chiffres dans le message client, formulés en plus doux mais **présents**.
+**Règle** : aucune fiche source (étape de vente, ressource, fiche plateforme) ne doit voir ses chiffres ni ses leviers prescrits effacés ou externalisés au moment de la rédaction. Garder les chiffres dans le message client, formulés en plus doux mais **présents**. Garder les leviers prescrits dans le corps, pas en points ouverts.
 
-**Exemples** :
+**Exemples transverses** :
 
-| Faux (consultatif vidé) | Bon (consultatif chiffré) |
+| Faux (vidé / externalisé) | Bon (chiffré / intégré) |
 |---|---|
-| "avant que les prix de la haute saison 2027 ne soient publiés" | "selon les régions et les gammes, on observe en moyenne 20 à 30% de différence entre les tarifs verrouillés en juin et ceux publiés en janvier" |
-| ByNativ en points ouverts ("Si les vols sont dans la discussion...") | ByNativ intégré au message ("Si vous engagez maintenant, je peux aussi solliciter ByNativ pour pré-réserver vos vols 2027") |
+| "avant que les prix de la haute saison 2027 ne soient publiés" | "on observe en moyenne 20 à 30% de différence entre les tarifs verrouillés en juin et ceux publiés en janvier" |
+| ByNativ en points ouverts ("Si les vols sont dans la discussion...") | ByNativ intégré ("Si vous engagez maintenant, je peux aussi solliciter ByNativ pour pré-réserver vos vols 2027") |
 | "acompte de 10%" sans montant | "acompte de 10%, soit X € sur la base actuelle" si le devis est connu |
+| "voyages sur mesure dans une fourchette accessible" | "voyages sur mesure entre 250 et 320 €/pers/jour selon la saison" |
+| "support sur place de qualité" | "support 24/7 francophone, équipe de 7 travel planners + 4 chauffeurs basés en Écosse à l'année" |
 
-**Vérification avant livraison d'un message Marie/DE** :
+**Verrou systématique avant livraison (transverse, tous agents et plateformes)** :
 
-- Toutes les quantifications prescrites par la fiche source (étape ou ressource) sont présentes dans le message
-- Les leviers prescrits par la fiche (ByNativ vols, partenaire, acompte précis) sont **intégrés au corps** du message, pas en points ouverts
-- Si le devis a un montant connu, traduire les pourcentages en montants concrets
+1. Lister mentalement les chiffres et leviers prescrits par la ou les fiches sources utilisées (étape, ressource, plateforme)
+2. Ouvrir le draft livré
+3. Faire un `Ctrl+F` sur chaque chiffre attendu : pourcentages (`%`), euros (`€`), ratios (`/pers`, `/sem`, `/jour`), durées (`nuits`, `jours`), dates (mois, années)
+4. Si un chiffre prescrit manque alors que la fiche source en donne un → réécrire le bloc concerné
+5. Faire un `Ctrl+F` sur chaque levier prescrit (nom de partenaire, sigle, lien type) : doit être dans le corps, pas en points ouverts
+6. Faire un `Ctrl+F` sur "pas de problème", "pas de souci", "aucun problème" → doit donner zéro résultat (cf. `humanizer-kl-rules.md` §1.6)
 
-**Source** : retour Nicolas sur draft Marie 2026-05-06 généré depuis `etapes-vente/05c-report-saison-suivante.md`. Trois régressions identifiées : "pas de problème" (déjà couvert par S8), "20-30%" disparu, ByNativ externalisé.
+**Sources** :
+
+- Premier retour Nicolas 2026-05-06 sur draft Marie/DE généré depuis `etapes-vente/05c-report-saison-suivante.md`. 3 régressions : "pas de problème", "20-30%" disparu, ByNativ externalisé
+- Deuxième retour Nicolas 2026-05-06 sur 2e draft Marie après ajout de S9 initial : 2/3 corrections appliquées (acompte chiffré + ByNativ intégré), mais "20-30%" et "pas de problème" persistants → généralisation à tous les agents et ajout du verrou systématique
 
 ---
 
@@ -375,9 +385,37 @@ Sur Destination-Écosse, la voix Marie consultative tend à deux travers à corr
 
 **Logique du pattern** : Marie consultative adoucit systématiquement les leviers chiffrés et délègue les options externes à l'agent au lieu de les exposer au client. Le ton consultatif devient une excuse pour neutraliser les leviers commerciaux que la fiche source prescrit.
 
-**Règle apprise** : S9 (Marie/DE : ne pas effacer les chiffres ni externaliser les leviers concrets).
+**Règle apprise** : S9 (initialement Marie/DE, généralisée à tous les agents le même jour, voir entrée suivante).
 
 **Verdict** : le skill marche (5+ empreintes uniques d'accès aux fichiers, dont le Calendly desti-ecosse-marie créé ce matin). Les régressions sont du tuning fin, pas un défaut structurel.
+
+### 2026-05-06 — Généralisation S9 et ajout humanizer §1.6 (test 2 fiche 05c)
+
+**Contexte** : 2e draft Marie/DE généré après ajout de S9 (Marie-spécifique) et notification du sync au projet Claude.ai. Devis de référence 5 800 € pour 2 PAX.
+
+**Progrès observés** :
+
+1. Acompte chiffré : "acompte de 580 € (10% du montant total)" → S9 §exemple 3 appliqué parfaitement
+2. ByNativ intégré au corps du message → S9 §exemple 2 appliqué
+
+**Régressions persistantes (2/3)** :
+
+1. "20 à 30%" toujours absent : Marie a écrit "avant que les prix de la haute saison 2027 ne soient publiés" sans chiffre, malgré S9 §exemple 1 explicite
+2. "Pas de problème" en Option B (3e occurrence successive) : aucune fiche ne le bannissait explicitement, S8 humanizer parlait d'ouverture en négation et 05c §pièges humanizer parlait de passivité, mais Claude n'a pas fait le lien
+
+**Décisions Nicolas** :
+
+- Préférer "à votre rythme" comme remplacement standard de "pas de problème"
+- Généraliser S9 à tous les agents et plateformes (pas que Marie/DE), car le pattern d'adoucissement peut toucher Nicolas, Alison, Emily ou les squelettes selon les sujets sensibles
+- Renforcer humanizer-kl-rules avec une section dédiée aux connecteurs passifs
+
+**Actions prises** :
+
+- `humanizer-kl-rules.md` §1.6 ajoutée : connecteurs passifs et d'acceptation à reformuler ("pas de problème" / "pas de souci" / "aucun problème" → "à votre rythme"). Audit final §7 mis à jour
+- S9 (cette fiche) généralisée à tous les agents et plateformes. Verrou systématique ajouté : `Ctrl+F` chiffres + leviers + connecteurs passifs avant livraison
+- Versioning mis à jour
+
+**Effet attendu sur le 3e draft** : zéro "pas de problème", "20 à 30%" présent en formulation douce, ByNativ et acompte chiffré conservés.
 
 ---
 
@@ -398,3 +436,4 @@ Sur Destination-Écosse, la voix Marie consultative tend à deux travers à corr
 |---|---|
 | 28 avril 2026 | Création de la fiche, règles F1 + S1-S4 |
 | 6 mai 2026 | Ajout règle S9 (Marie/DE adoucit les leviers chiffrés). Source : test draft Marie 05c report 2027 |
+| 6 mai 2026 | Généralisation S9 à tous les agents et plateformes + ajout verrou Ctrl+F. Renforcement croisé via humanizer §1.6 (connecteurs passifs). Source : 2e test draft Marie 05c |

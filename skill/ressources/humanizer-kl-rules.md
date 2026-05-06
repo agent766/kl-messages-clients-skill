@@ -75,6 +75,33 @@ Préférer une conclusion factuelle, qui pose le prochain pas concret.
 
 > "Je vous propose un call de 30 min cette semaine pour caler les dates et le format. Voici mon Calendly : ..."
 
+### 1.6 Connecteurs passifs et d'acceptation à reformuler
+
+Patterns d'acceptation passive qui adoucissent une réponse au point de la vider. À bannir et reformuler en **positif actif**.
+
+| Banni | Préférer (selon contexte) |
+|---|---|
+| Pas de problème | À votre rythme |
+| Pas de souci | À votre rythme |
+| Aucun problème | À votre rythme |
+| Bien entendu | (supprimer ou reformuler en factuel) |
+| C'est tout à fait normal | (selon contexte, reformuler factuel) |
+| C'est tout à fait compréhensible | (idem) |
+
+**Pourquoi** : ces formulations signalent que l'agent **subit** la décision du client au lieu de la reformuler en avantage ou en cadre actif. Sur un message de report ou d'objection, elles neutralisent les leviers commerciaux qui suivent.
+
+**Exemple concret (étape 05c report saison suivante)** :
+
+Mauvais :
+> "Option B, si vous avez encore besoin de temps pour affiner le projet : pas de problème. Je note votre dossier pour un recontact à partir de mi-septembre."
+
+Bon :
+> "Option B, si vous avez encore besoin de temps pour affiner le projet : à votre rythme. Je note votre dossier pour un recontact à partir de mi-septembre."
+
+**Vérification systématique avant livraison** : `Ctrl+F` sur "pas de problème", "pas de souci", "aucun problème". Doit donner zéro résultat.
+
+**Source** : retour Nicolas 2026-05-06 (3 occurrences successives sur drafts Marie générés depuis fiche 05c).
+
 ---
 
 ## 2. Ouvertures et constructions à éviter
@@ -179,6 +206,7 @@ Checklist obligatoire à appliquer mentalement avant de proposer un draft :
 - [ ] Zéro connecteur robotique en ouverture (cf. §1.3)
 - [ ] Zéro auto-louange (cf. §1.4)
 - [ ] Zéro conclusion générique (cf. §1.5)
+- [ ] Zéro connecteur passif type "pas de problème" (cf. §1.6)
 - [ ] Pas d'ouverture en négation ni en question rhétorique
 - [ ] Rythme syntaxique varié (court + long)
 - [ ] Au moins un fait concret précis (lieu, nom, chiffre, date)
@@ -210,3 +238,4 @@ Le ton de marque humanizer s'applique transversalement. Le ton spécifique d'un 
 | Date | Changement |
 |---|---|
 | 2026-05-06 | Création initiale, extraction depuis PROJECT-INSTRUCTIONS.md, retours-corrections.md S7-S8, et regles-redaction-transverses.md §5 |
+| 2026-05-06 | Ajout §1.6 (connecteurs passifs : "pas de problème" et variantes). Source : retours Nicolas sur drafts Marie successifs |
