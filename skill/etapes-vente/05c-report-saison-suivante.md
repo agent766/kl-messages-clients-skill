@@ -71,8 +71,9 @@ voyage dès maintenant avec un acompte de 10% (au lieu des 35%
 habituels). Cela verrouille les tarifs 2026 sur vos hébergements 2027
 et vous donne le choix maximum sur les régions populaires (Skye,
 Hébrides, Highlands en juin-août). Les hôteliers révisent leurs
-tarifs entre octobre et décembre, c'est là qu'on perd 20 à 30% de
-pouvoir d'achat sur le devis.
+tarifs entre octobre et décembre, et le pouvoir d'achat sur le devis
+recule en moyenne de 20 à 30% entre cette fenêtre actuelle et la
+publication des grilles haute saison.
 
 Option 2 : si le projet reste à affiner, je vous propose de vous
 recontacter mi-septembre 2026 avec les disponibilités fraîches et un

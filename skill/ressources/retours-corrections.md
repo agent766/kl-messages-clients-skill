@@ -336,7 +336,7 @@ Deux travers documentés à corriger :
 
 | Faux (vidé / externalisé) | Bon (chiffré / intégré) |
 |---|---|
-| "avant que les prix de la haute saison 2027 ne soient publiés" | "on observe en moyenne 20 à 30% de différence entre les tarifs verrouillés en juin et ceux publiés en janvier" |
+| "avant que les prix de la haute saison 2027 ne soient publiés" | "selon les régions et les gammes, **nous observons** en moyenne **20 à 30%** de différence entre les tarifs verrouillés en juin et ceux publiés en janvier" (formulation on-free, conforme §S11) |
 | ByNativ en points ouverts ("Si les vols sont dans la discussion...") | ByNativ intégré ("Si vous engagez maintenant, je peux aussi solliciter ByNativ pour pré-réserver vos vols 2027") |
 | "acompte de 10%" sans montant | "acompte de 10%, soit X € sur la base actuelle" si le devis est connu |
 | "voyages sur mesure dans une fourchette accessible" | "voyages sur mesure entre 250 et 320 €/pers/jour selon la saison" |
@@ -381,6 +381,32 @@ Dans toute rédaction commerciale Kilt & Licorne (premier contact, proposition, 
 **Vérification avant livraison Kilt & Licorne** : `Ctrl+F` sur "salariés", "francophone", "Édimbourg", "flotte", "2015". Au moins un de ces termes doit apparaître dans le corps du message client.
 
 **Source** : retour Nicolas 2026-05-06 après test 3 (Angélina/KL/05c). Le draft livré ne contenait aucun différenciateur d'ancrage local, le rendant indistinguable d'un draft DE/Evaneos sans ses partenaires nommés.
+
+---
+
+### S11 — Hiérarchie : voix de l'agent > formulation verbatim d'un template
+
+**Règle ajoutée le 6 mai 2026 (retour Nicolas, test 5 Angélina/Evaneos/05c).**
+
+En cas de conflit entre une formulation verbatim d'un template (V2 d'une fiche étape, exemple S9, formulation prescrite par une plateforme) et une règle de voix d'agent (`agents/<prenom>.md`) ou une règle transverse (`humanizer-kl-rules.md`, `regles-redaction-transverses.md`), **la règle de voix prévaut**. Le template fournit le **fond** (mécanique, structure, chiffres prescrits), pas la **forme verbatim**.
+
+**Cas observé** : V2 du template 05c contenait *"c'est là qu'on perd 20 à 30%"*. Angélina, Marie, Nicolas et Alison ont toutes pour règle "jamais 'on'" (cf. `humanizer-kl-rules.md` §5 et chaque fiche agent). Claude a appliqué le verbatim au détriment de la règle voix.
+
+**Règle hiérarchique** (en cas de conflit) :
+
+1. **Retours-corrections** (cette fiche, règles apprises) — autorité maximale
+2. **Voix de l'agent** (`agents/<prenom>.md`)
+3. **Plateforme** (`plateformes/<plateforme>.md`)
+4. **Humanizer-kl-rules** (transverse, anti-IA)
+5. **Regles-redaction-transverses** (éditoriales)
+6. **Étape de vente** (`etapes-vente/XX-*.md`) — fournit la mécanique et les chiffres
+7. **Templates V2 verbatim** — formulation à adapter, pas à copier mot pour mot
+
+**Application pratique** : si un template ou un exemple d'une fiche source utilise "on", reformuler en "nous" + verbe ou en tournure passive avant livraison. Le chiffre et la mécanique restent, la formulation s'adapte à la voix.
+
+**Vérification** : `Ctrl+F` sur "on " (avec espace) après application de la checklist SKILL §5. Doit donner zéro résultat hors citations explicites de tiers.
+
+**Source** : retour Nicolas 2026-05-06 sur test 5 (Angélina/Evaneos/05c). Le draft contenait "on perd 20 à 30%" repris verbatim du template V2, en violation de la règle Angélina "jamais 'on'". V2 reformulé en "le pouvoir d'achat sur le devis recule en moyenne de 20 à 30%" pour éviter le conflit.
 
 ---
 
@@ -487,6 +513,42 @@ Dans toute rédaction commerciale Kilt & Licorne (premier contact, proposition, 
 
 **Règles apprises** : F8 (mise à jour Mister Fly), S10 (différenciateurs KL obligatoires).
 
+### 2026-05-06 — Test 5 Angélina/Evaneos : 5/6 passé après checklist SKILL §5, conflit "on" identifié
+
+**Contexte** : 5e test du skill, configuration Angélina sur Evaneos (sa plateforme principale), scénario 05c report 2027, devis 4 200 € pour un couple. Réalisé après push de SKILL §5 audit checklist 6 étapes + agents/angelina.md exemples concrets.
+
+**Score** : 5/6 critères passés. Premier vrai déblocage sur le pattern "20 à 30%".
+
+**Critères passés** :
+
+1. Acompte chiffré 420 € → S9 OK
+2. **"20 à 30%" enfin présent** → checklist §5 Étape 1 (Ctrl+F sur chiffres prescrits) a forcé le check après 5 itérations consécutives sans
+3. Partenaire vols anonymé en "notre partenaire vols" → conventions Evaneos OK
+4. Sign-off Evaneos officiel "Au plaisir de vous parler prochainement, Angélina" → OK
+5. Aucune mention KL/DE/ByNativ/Mister Fly → séparation des marques OK
+
+**Critère échoué** :
+
+6. Voix Angélina caractérisée → toujours absente. Aucun coup de cœur terrain, aucune anticipation pédagogique, malgré les 13 exemples ajoutés dans `agents/angelina.md`. Le draft reste interchangeable avec un draft Marie ou Alison.
+
+**Bug bonus identifié** : conflit verbatim V2 vs voix agent. Le draft contenait *"on perd 20 à 30%"* repris mot pour mot du template V2 dans `05c-report-saison-suivante.md`, en violation de la règle Angélina "jamais 'on'" (et de toutes les autres voix agents par défaut, cf. `humanizer-kl-rules.md` §5).
+
+**Décisions Nicolas** :
+
+1. Reformuler le V2 du template 05c en "on-free" : *"le pouvoir d'achat sur le devis recule en moyenne de 20 à 30% entre cette fenêtre actuelle et la publication des grilles haute saison"*
+2. Aligner l'exemple S9 avec une formulation "nous observons" plutôt que "on observe"
+3. Créer S11 : hiérarchie explicite voix agent > template verbatim, avec ordre de priorité des fiches en cas de conflit
+4. Accepter le plafond stylistique sur la voix d'agent caractérisée. Le système est calibré à 5/6 (90%), l'agent fait le 10% restant manuellement (ajout d'une phrase coup de cœur ou tell terrain selon contexte) en 10 secondes au moment de l'envoi
+
+**Bilan global après 5 itérations** :
+
+- **Règles d'interdiction** : appliquées (em-dash, mots-valises, mentions croisées, hôtels, "pas de problème" avec §1.6)
+- **Règles factuelles paramétriques** : appliquées (acompte chiffré, Calendly, sign-off, partenaires vols)
+- **Règles de pattern proactif** : appliquées après checklist explicite (chiffre 20-30%, S10 KL différenciateurs)
+- **Règles de voix d'agent caractérisée** : plafond observé. Les exemples-driven aident mais n'atteignent pas la consistance. Acceptation du retoucher manuel.
+
+**Règles apprises** : S11 (hiérarchie voix agent > template verbatim).
+
 ---
 
 ## Workflow d'enrichissement
@@ -508,3 +570,4 @@ Dans toute rédaction commerciale Kilt & Licorne (premier contact, proposition, 
 | 6 mai 2026 | Ajout règle S9 (Marie/DE adoucit les leviers chiffrés). Source : test draft Marie 05c report 2027 |
 | 6 mai 2026 | Généralisation S9 à tous les agents et plateformes + ajout verrou Ctrl+F. Renforcement croisé via humanizer §1.6 (connecteurs passifs). Source : 2e test draft Marie 05c |
 | 6 mai 2026 | F8 mise à jour (ajout Mister Fly = partenaire vols dédié DE, distinction avec ByNativ réseau parent). Ajout S10 (différenciateurs KL obligatoires). Source : 3e test draft Angélina/KL/05c. Voix Angélina complétée par Nicolas. |
+| 6 mai 2026 | Ajout S11 (hiérarchie voix agent > template verbatim). Reformulation V2 05c et S9 exemple en "on-free". Source : 5e test draft Angélina/Evaneos/05c, 5/6 critères passés (20-30% enfin appliqué grâce checklist SKILL §5), conflit "on perd" V2 vs règle Angélina "jamais on". Bilan : système calibré à 90%, plafond stylistique accepté sur voix d'agent caractérisée. |
