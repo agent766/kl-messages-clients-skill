@@ -143,9 +143,9 @@ Bonne route,
 - [ ] [Prénom] remplacé
 - [ ] Aucun emoji Unicode (le bouton hébergements se référence en texte simple "bouton dédié" ou "bouton Hébergements" si l'agent veut le préciser)
 - [ ] "Nous" pour l'équipe, pas "on" (cf. S11)
-- [ ] Si plateforme = Evaneos : aucune mention KL/DE/ByNativ/Mister Fly
-- [ ] Si plateforme = KL : Option Way nommé si pertinent au contexte
-- [ ] Si plateforme = DE : Mister Fly nommé si pertinent au contexte
+- [ ] Si plateforme = Evaneos : partenaire vols Option Way **anonymé** en "notre partenaire vols", jamais nommé. Aucune mention de KL/DE/ByNativ/Mister Fly
+- [ ] Si plateforme = KL : Option Way **nommé** si pertinent au contexte
+- [ ] Si plateforme = DE : Mister Fly **nommé** si pertinent au contexte. ByNativ peut être mentionné comme réseau parent si pertinent
 
 ## À enrichir
 
