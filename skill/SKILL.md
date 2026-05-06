@@ -122,7 +122,7 @@ Détails dans `ressources/sales-process-evaneos.md`.
 Pour toute demande prospect impliquant un voyage en train, sans voiture,
 en transports en commun, ou les mots-clés "Spirit of Scotland",
 "Caledonian Sleeper", "Jacobite Steam Train", "ScotRail", lire d'abord :
-`skill/ressources/transports-commun/SKILL.md`
+`ressources/SKILL.md`
 
 Ce sous-skill couvre l'ensemble du cycle de vente sur ce segment, en
 13 fichiers structurés en 7 phases :
