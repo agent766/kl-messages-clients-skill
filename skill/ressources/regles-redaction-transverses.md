@@ -128,9 +128,13 @@ Une phrase courte de 4 mots, c'est OK. Un paragraphe d'une phrase, c'est bien pa
 
 | Plateforme | Exclamations | Tirets longs | Emojis Unicode | Smileys ASCII |
 |---|---|---|---|---|
-| Kilt & Licorne | Très rares | Évités | Non | Tolérés selon agent |
-| Evaneos | Rares (max 1, 0 pour Alison) | Aucun | Non | Tolérés sauf Alison |
-| Destination-Écosse | Rares | Tolérés | Non | Non en routine |
+| Kilt & Licorne | Très rares | Évités | Non* | Tolérés selon agent |
+| Evaneos | Rares (max 1, 0 pour Alison) | Aucun | Non* | Tolérés sauf Alison |
+| Destination-Écosse | Rares | Tolérés | Non* | Non en routine |
+
+**\* Exception emoji UI (toutes plateformes)** : les emojis utilisés comme **référence directe à un élément d'interface** du carnet de voyage Ezus, du dashboard client, ou de toute autre UI mentionnée dans le message sont autorisés. Cas concret : le bouton 🏨 hébergements en bas de l'écran du carnet de voyage est une icône littérale que le client doit chercher visuellement, donc la mentionner dans le message aide à la navigation. Différent du cas décoratif (point d'exclamation visuel, smiley d'humeur, drapeau national, etc.) qui reste interdit.
+
+Source : retour Nicolas 2026-05-06 sur template `etapes-vente/11-livraison-carnet.md` V4.
 
 ## 15. Conventions Evaneos officielles
 

@@ -31,7 +31,7 @@ Note : Nicolas sur Evaneos est plus structuré (cf. template officiel 1.04).
 
 ## Format — règles strictes
 
-- Aucun emoji Unicode
+- Aucun emoji Unicode décoratif. **Exception** : emojis comme référence d'UI du carnet Ezus (ex : bouton 🏨) autorisés (cf. `regles-redaction-transverses.md` §14 exception emoji UI)
 - Aucun em-dash `—`
 - Un seul CTA principal
 - Signature courte (cf. agent)

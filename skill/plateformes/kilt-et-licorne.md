@@ -50,7 +50,7 @@ Cf. `retours-corrections.md` §S10. À choisir 1 à 2 selon contexte, intégrés
 - **Bullets** : pas en routine. À doser, uniquement pour next steps administratives ou jalons de paiement
 - **Gras Markdown** : pas dans les drafts (cf. `regles-redaction-transverses.md` §4)
 - **Em-dash `—`** : interdit (cf. `regles-redaction-transverses.md` §3)
-- **Emojis Unicode** : non
+- **Emojis Unicode** : non en routine. **Exception** : emojis comme référence d'UI (ex : bouton 🏨 du carnet Ezus) autorisés (cf. `regles-redaction-transverses.md` §14 exception emoji UI)
 - **Smileys ASCII** : tolérés selon agent
 - **Exclamations** : très rares
 - **Un seul CTA principal** : généralement le Calendly de Nicolas

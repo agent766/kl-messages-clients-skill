@@ -549,6 +549,28 @@ En cas de conflit entre une formulation verbatim d'un template (V2 d'une fiche �
 
 **Règles apprises** : S11 (hiérarchie voix agent > template verbatim).
 
+### 2026-05-06 — Template carnet de voyage V4 (fusion) + exception emoji UI
+
+**Contexte** : Nicolas a proposé une version courte du message d'envoi du carnet de voyage (réutilisée 2 fois en cours de session : draft initial puis post-sync). Cette version courte gardait l'emoji 🏨 et "on a sélectionnées" malgré les corrections poussées dans le V3 du skill.
+
+**Fusion validée par Nicolas (V4)** : style refiné Nicolas (paragraphes courts, "Une fois la page chargée, elle reste consultable même hors connexion" plus fluide que la formulation V3) + structure complète V3 (salutation, lien Ezus, Calendly CTA, annonce pré-départ, sign-off agent).
+
+**Corrections appliquées sur la fusion** :
+
+1. "qu'on a sélectionnées" → "que **nous avons** sélectionnées" (cf. S11)
+2. Bouton 🏨 conservé (validé par Nicolas comme référence UI légitime, voir nouvelle exception ci-dessous)
+3. Salutation `[Prénom]` ajoutée
+4. Lien Ezus en placeholder explicite
+5. Bloc Calendly CTA ajouté
+6. Annonce mail pré-départ ajoutée
+7. Sign-off [Agent] + [Plateforme] ajouté
+
+**Nouvelle exception aux règles emoji** : les emojis utilisés comme **référence directe à un élément d'UI** (ex : bouton 🏨 hébergements du carnet Ezus en bas d'écran) sont **autorisés** sur toutes plateformes, en exception à la règle "Aucun emoji Unicode" de `regles-redaction-transverses.md` §14. Différent du cas décoratif (smiley d'humeur, drapeau, point d'exclamation visuel) qui reste interdit.
+
+**Justification** : 🏨 ici n'est pas un emoji décoratif mais un repère visuel pour le client qui cherche l'icône précise sur l'écran du carnet. Équivalent de mentionner "l'icône engrenage" dans une doc logicielle. Mentionner l'icône aide la navigation utilisateur, c'est un cas d'usage différent du décoratif.
+
+**Application** : exception documentée dans `regles-redaction-transverses.md` §14 et dans les 3 fiches plateforme (KL, Evaneos, DE).
+
 ---
 
 ## Workflow d'enrichissement
@@ -571,3 +593,4 @@ En cas de conflit entre une formulation verbatim d'un template (V2 d'une fiche �
 | 6 mai 2026 | Généralisation S9 à tous les agents et plateformes + ajout verrou Ctrl+F. Renforcement croisé via humanizer §1.6 (connecteurs passifs). Source : 2e test draft Marie 05c |
 | 6 mai 2026 | F8 mise à jour (ajout Mister Fly = partenaire vols dédié DE, distinction avec ByNativ réseau parent). Ajout S10 (différenciateurs KL obligatoires). Source : 3e test draft Angélina/KL/05c. Voix Angélina complétée par Nicolas. |
 | 6 mai 2026 | Ajout S11 (hiérarchie voix agent > template verbatim). Reformulation V2 05c et S9 exemple en "on-free". Source : 5e test draft Angélina/Evaneos/05c, 5/6 critères passés (20-30% enfin appliqué grâce checklist SKILL §5), conflit "on perd" V2 vs règle Angélina "jamais on". Bilan : système calibré à 90%, plafond stylistique accepté sur voix d'agent caractérisée. |
+| 6 mai 2026 | Template carnet de voyage V4 (fusion) intégré dans 11-livraison-carnet.md. Nouvelle exception emoji UI ajoutée à regles-redaction-transverses §14 et aux 3 fiches plateforme : emojis comme référence d'UI (ex : bouton 🏨 carnet Ezus) autorisés. Source : retour Nicolas, validation V4. |

@@ -39,7 +39,7 @@ Professionnel, chaleureux, consultatif. Élégant sans théâtralité.
 | Séparateurs `---` | Autorisés entre blocs majeurs |
 | Gras de section | Toléré sur récap final, confirmation acompte, pré-départ (manuel dans l'éditeur cible) |
 | Em-dash `—` | Interdit (cf. `regles-redaction-transverses.md` §3) |
-| Emojis Unicode | Non |
+| Emojis Unicode | Non en routine. Exception : référence d'UI carnet Ezus (ex : bouton 🏨) autorisée (cf. `regles-redaction-transverses.md` §14 exception emoji UI) |
 | Smileys ASCII | Non en routine |
 | Exclamations | Rares |
 | Un seul CTA principal | Généralement le Calendly de l'agent |

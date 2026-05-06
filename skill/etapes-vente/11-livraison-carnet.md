@@ -59,7 +59,7 @@ Longueur cible : 12 à 18 lignes.
 
 Si le voyage inclut des transports en commun (train, ferries, autocar), s'appuyer sur les contenus prêts à coller du sous-skill transports : `ressources/SKILL.md` et notamment `ressources/10-contenu-voyageur.md`.
 
-## Template transverse (validé Nicolas 2026-05-06)
+## Template transverse (validé Nicolas 2026-05-06, fusion V4)
 
 Applicable à toutes plateformes et tous agents. Adaptable selon les variations agent ci-dessous.
 
@@ -78,16 +78,12 @@ sélectionnées pour vous.
 Pas besoin d'imprimer quoi que ce soit, ce lien remplace les vouchers
 papier d'autrefois. Vous gardez juste votre téléphone à portée de
 main : tout y est, des numéros utiles aux références de réservation,
-jusqu'aux instructions pour se garer ou récupérer les clés, même hors
-connexion une fois la page chargée.
-
-Chaque journée s'ouvre sur sa carte, ses points d'intérêt et les
-détails pratiques qui vous éviteront de chercher quoi que ce soit sur
-place.
+jusqu'aux instructions pour se garer ou récupérer les clés. Une fois
+la page chargée, elle reste consultable même hors connexion.
 
 Un récapitulatif des hébergements reste accessible en permanence
-depuis le bouton dédié en bas de l'écran, pratique le soir au moment
-du check-in.
+depuis le bouton 🏨 en bas de l'écran, pratique le soir au moment du
+check-in.
 
 Je vous propose un point téléphonique pour parcourir le carnet
 ensemble. Nous pourrons affiner le programme, apporter les dernières
@@ -103,6 +99,8 @@ Bonne route,
 [Agent]
 [Plateforme si applicable]
 ```
+
+**Note sur l'emoji 🏨** : exception documentée à la règle "Aucun emoji Unicode" de `regles-redaction-transverses.md` §14. Les emojis utilisés comme **référence directe à un élément d'UI** du carnet Ezus (bouton 🏨 hébergements, etc.) sont autorisés car ils servent de repère visuel pour le client qui cherche l'icône précise sur l'écran. Différent du cas décoratif, qui reste interdit.
 
 ## Variations agent
 
@@ -141,7 +139,7 @@ Bonne route,
 - [ ] Pas d'hôtel non confirmé nommé dans le carnet
 - [ ] Calendly de l'agent qui signe (cf. `agents/<prenom>.md` §Calendly)
 - [ ] [Prénom] remplacé
-- [ ] Aucun emoji Unicode (le bouton hébergements se référence en texte simple "bouton dédié" ou "bouton Hébergements" si l'agent veut le préciser)
+- [ ] Aucun emoji Unicode décoratif. **Exception** : emojis utilisés comme référence directe à un élément d'UI du carnet Ezus (ex : bouton 🏨 hébergements) autorisés
 - [ ] "Nous" pour l'équipe, pas "on" (cf. S11)
 - [ ] Si plateforme = Evaneos : partenaire vols Option Way **anonymé** en "notre partenaire vols", jamais nommé. Aucune mention de KL/DE/ByNativ/Mister Fly
 - [ ] Si plateforme = KL : Option Way **nommé** si pertinent au contexte
