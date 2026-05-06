@@ -308,6 +308,35 @@ Avant chaque rédaction de message client (premier contact, accompagnement de de
 
 ---
 
+### S9 — Marie/DE : ne pas effacer les chiffres ni externaliser les leviers concrets
+
+**Règle ajoutée le 6 mai 2026 (retour Nicolas, test fiche 05c report 2027 Marie)**.
+
+Sur Destination-Écosse, la voix Marie consultative tend à deux travers à corriger :
+
+1. **Adoucir les quantifications chiffrées** au point de les faire disparaître (ex : "20 à 30%" remplacé par "haute saison publiée")
+2. **Externaliser les leviers concrets en points ouverts** agence (ex : ByNativ pour les vols 2027 listé en option pour l'agent au lieu d'être intégré au message client)
+
+**Règle** : la consultativité ne doit pas effacer les chiffres ni renvoyer les leviers commerciaux à l'externe. Garder les chiffres dans le message client, formulés en plus doux mais **présents**.
+
+**Exemples** :
+
+| Faux (consultatif vidé) | Bon (consultatif chiffré) |
+|---|---|
+| "avant que les prix de la haute saison 2027 ne soient publiés" | "selon les régions et les gammes, on observe en moyenne 20 à 30% de différence entre les tarifs verrouillés en juin et ceux publiés en janvier" |
+| ByNativ en points ouverts ("Si les vols sont dans la discussion...") | ByNativ intégré au message ("Si vous engagez maintenant, je peux aussi solliciter ByNativ pour pré-réserver vos vols 2027") |
+| "acompte de 10%" sans montant | "acompte de 10%, soit X € sur la base actuelle" si le devis est connu |
+
+**Vérification avant livraison d'un message Marie/DE** :
+
+- Toutes les quantifications prescrites par la fiche source (étape ou ressource) sont présentes dans le message
+- Les leviers prescrits par la fiche (ByNativ vols, partenaire, acompte précis) sont **intégrés au corps** du message, pas en points ouverts
+- Si le devis a un montant connu, traduire les pourcentages en montants concrets
+
+**Source** : retour Nicolas sur draft Marie 2026-05-06 généré depuis `etapes-vente/05c-report-saison-suivante.md`. Trois régressions identifiées : "pas de problème" (déjà couvert par S8), "20-30%" disparu, ByNativ externalisé.
+
+---
+
 ## Historique des corrections
 
 ### 2026-04-28 — Économie chambre familiale (Mme Maeva MALASPINA)
@@ -334,6 +363,22 @@ Avant chaque rédaction de message client (premier contact, accompagnement de de
 
 **Application** : tous les messages sortants désormais aérés + bullets + gras sur termes clés. Adaptation au support.
 
+### 2026-05-06 — Marie/DE adoucit les leviers commerciaux (test fiche 05c)
+
+**Contexte** : test du skill avec la demande "Je suis Marie, un client DE me dit qu'il reporte son projet à juin 2027". Draft généré correctement aligné sur 05c (mécanique dual-option Option A / Option B, calendrier hôteliers oct-déc, acompte 10% vs 35%, Calendly desti-ecosse-marie, sign-off Marie complet).
+
+**Régressions identifiées** :
+
+1. "Pas de problème" dans Option B (déjà couvert par S8 humanizer + 05c §pièges humanizer, mais Marie a quand même adouci au lieu de reformuler en positif)
+2. "20 à 30% de pouvoir d'achat sur le devis" remplacé par "avant que les prix de la haute saison 2027 ne soient publiés" → chiffre disparu
+3. ByNativ pour vols 2027 mis en points ouverts agence au lieu d'être intégré au message client (alors que `05c.md` §Variations plateforme - DE Marie le prescrit en intégré)
+
+**Logique du pattern** : Marie consultative adoucit systématiquement les leviers chiffrés et délègue les options externes à l'agent au lieu de les exposer au client. Le ton consultatif devient une excuse pour neutraliser les leviers commerciaux que la fiche source prescrit.
+
+**Règle apprise** : S9 (Marie/DE : ne pas effacer les chiffres ni externaliser les leviers concrets).
+
+**Verdict** : le skill marche (5+ empreintes uniques d'accès aux fichiers, dont le Calendly desti-ecosse-marie créé ce matin). Les régressions sont du tuning fin, pas un défaut structurel.
+
 ---
 
 ## Workflow d'enrichissement
@@ -352,3 +397,4 @@ Avant chaque rédaction de message client (premier contact, accompagnement de de
 | Date | Changement |
 |---|---|
 | 28 avril 2026 | Création de la fiche, règles F1 + S1-S4 |
+| 6 mai 2026 | Ajout règle S9 (Marie/DE adoucit les leviers chiffrés). Source : test draft Marie 05c report 2027 |
